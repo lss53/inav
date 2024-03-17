@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="entry heti">
+    <h2 class="post-title">{{ .Title | markdownify }}</h2>
+    <div class="post-content">
+        {{ if .Params.toc }}{{ .TableOfContents }}{{ end }}
+        {{ .Content }}
+        {{ .Render "path"}}
+    </div>
+</article>
+
+{{ if .Params.comment }}
+<div class="heti">
+    <h3>欢迎评论</h3>
+    <div id="tcomment"></div>
+</div>
+<script src="https://cdn.staticfile.org/twikoo/1.6.31/twikoo.all.min.js"></script>
+<script>twikoo.init({ envId: 'https://twikoo-api.netlify.app/.netlify/functions/twikoo', el: '#tcomment' })</script>
+{{ end }}
+
+{{ end }}

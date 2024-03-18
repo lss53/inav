@@ -1,10 +1,10 @@
 [[list]]
-tag = '学习专区'
+tag = '学习提升'
 css = 'icon-graduation-cap'
 
 [[list.sub]]
-tag = '知名UP主'
-css = 'icon-star'
+tag = '主科综合'
+css = 'icon-mobile'
 
     [[list.sub.item]]
     siteName="学过石油的语文老师"
@@ -54,6 +54,10 @@ css = 'icon-star'
     siteLogo="https://i1.hdslb.com/bfs/face/2081199a93e69d154047712d68a6fc2a6391a311.jpg"
     description="高中英语。新东方名师。"
 
+[[list.sub]]
+tag = '理科综合'
+css = 'icon-mobile'
+
     [[list.sub.item]]
     siteName="HuangFuRen"
     siteLink="https://space.bilibili.com/23630128"
@@ -102,6 +106,10 @@ css = 'icon-star'
     siteLogo="https://i1.hdslb.com/bfs/face/58e25762106ecfe1a599e54c271eed8d48541763.jpg"
     description="高中生物。检身自省，砥砺前行。" 
 
+[[list.sub]]
+tag = '文科综合'
+css = 'icon-mobile'
+
     [[list.sub.item]]
     siteName="历史老师定哥"
     siteLink="https://space.bilibili.com/321084528"
@@ -140,6 +148,10 @@ css = 'icon-star'
     siteLogo="https://i1.hdslb.com/bfs/face/b53f6f654ec5c79b3e53148b95173cb493d9294e.jpg"
     description="高中地理。" 
 
+[[list.sub]]
+tag = '百科综合'
+css = 'icon-lightbulb'
+
     [[list.sub.item]]
     siteName="教日语的阿飞老师"
     siteLink="https://space.bilibili.com/383433896"
@@ -172,7 +184,7 @@ css = 'icon-star'
     
 [[list.sub]]
 tag = '组卷网站'
-css = 'icon-pencil'
+css = 'icon-money'
 
     [[list.sub.item]]
     siteName="组卷网-学科网"
@@ -185,9 +197,57 @@ css = 'icon-pencil'
     siteLogo="https://jty-open-new.obs.cn-north-4.myhuaweicloud.com/jkxWeb/2024-3-14/static/img/newlogo.af0519c.svg"
     description="金太阳"
 
+[[list.sub]]
+tag = '课程方案+标准'
+css = 'icon-key'
+
+    [[list.sub.item]]
+    siteName="普通高中"
+    siteLink="http://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html"
+    siteLogo="http://www.moe.gov.cn/favorite.ico"
+    description="教育部"
+    [[list.sub.item]]
+    siteName="义务教育"
+    siteLink="https://www.gov.cn/zhengce/zhengceku/2022-04/21/content_5686535.htm"
+    siteLogo="http://www.moe.gov.cn/favorite.ico"
+    description="教育部"
+
 [[list]]
 tag = '办公专区'
 css = 'icon-desktop'
+
+[[list.sub]]
+tag = 'Windows'
+css = 'icon-cd'
+
+    [[list.sub.item]]
+    siteName="山己几子木"
+    siteLink="https://msdn.sjjzm.com/"
+    siteLogo="res/logos/sjjzm.ico"
+    description="MSDN - 山己几子木"
+    [[list.sub.item]]
+    siteName="HelloWindows"
+    siteLink="https://hellowindows.cn/"
+    siteLogo="https://hellowindows.cn/logo-s.png"
+    description="Windows系统下载仓储站"
+
+    [[list.sub.item]]
+    siteName="OS.click"
+    siteLink="https://os.click/en"
+    siteLogo="https://os.click/build/images/favicon.bf5f4560.ico"
+    description="Download Windows and Linux ISO lightning fast"
+
+    [[list.sub.item]]
+    siteName="UUP dump"
+    siteLink="https://uupdump.net/"
+    siteLogo="https://uupdump.net/static/images/logo.svg"
+    description="直接从 Windows 更新下载统一更新平台的文件"
+    
+    [[list.sub.item]]
+    siteName="TechBench"
+    siteLink="https://tb.rg-adguard.net/"
+    siteLogo="https://tb.rg-adguard.net/favicon.ico"
+    description="TechBench by WZT"
 
 [[list.sub]]
 tag = '实用软件'
@@ -283,41 +343,8 @@ css = 'icon-cog'
     description="MS Windows 和 Office 程序"
 
 [[list.sub]]
-tag = 'Windows'
-css = 'icon-tag'
-
-    [[list.sub.item]]
-    siteName="山己几子木"
-    siteLink="https://msdn.sjjzm.com/"
-    siteLogo="res/logos/sjjzm.ico"
-    description="MSDN - 山己几子木"
-    [[list.sub.item]]
-    siteName="HelloWindows"
-    siteLink="https://hellowindows.cn/"
-    siteLogo="https://hellowindows.cn/logo-s.png"
-    description="Windows系统下载仓储站"
-
-    [[list.sub.item]]
-    siteName="OS.click"
-    siteLink="https://os.click/en"
-    siteLogo="https://os.click/build/images/favicon.bf5f4560.ico"
-    description="Download Windows and Linux ISO lightning fast"
-
-    [[list.sub.item]]
-    siteName="UUP dump"
-    siteLink="https://uupdump.net/"
-    siteLogo="https://uupdump.net/static/images/logo.svg"
-    description="直接从 Windows 更新下载统一更新平台的文件"
-    
-    [[list.sub.item]]
-    siteName="TechBench"
-    siteLink="https://tb.rg-adguard.net/"
-    siteLogo="https://tb.rg-adguard.net/favicon.ico"
-    description="TechBench by WZT"
-
-[[list.sub]]
 tag = '代码托管'
-css = 'icon-tag'
+css = 'icon-database'
 
     [[list.sub.item]]
     siteName="GitHub"
@@ -332,7 +359,7 @@ css = 'icon-tag'
 
 [[list.sub]]
 tag = '静态网站'
-css = 'icon-tag'
+css = 'icon-cloud'
 
     [[list.sub.item]]
     siteName="Cloudflare Pages"
@@ -352,7 +379,7 @@ css = 'icon-tag'
 
 [[list.sub]]
 tag = '域名工具'
-css = 'icon-tag'
+css = 'icon-truck'
 
     [[list.sub.item]]
     siteName="NameSilo"
@@ -366,8 +393,8 @@ css = 'icon-tag'
     description="免费智能DNS解析服务商"
 
 [[list.sub]]
-tag = 'icons'
-css = 'icon-tag'
+tag = '图标icons'
+css = 'icon-diamond'
 
     [[list.sub.item]]
     siteName="UXWing"
@@ -389,7 +416,7 @@ css = 'icon-tag'
 
 [[list.sub]]
 tag = '在线翻译'
-css = 'icon-tag'
+css = 'icon-paper-plane'
 
     [[list.sub.item]]
     siteName="DeepL翻译"
@@ -404,7 +431,7 @@ css = 'icon-tag'
     
 [[list.sub]]
 tag = '医学资源'
-css = 'icon-tag'
+css = 'icon-globe'
 
     [[list.sub.item]]
     siteName="默沙东诊疗手册"

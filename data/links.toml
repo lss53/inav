@@ -1,5 +1,5 @@
 [[list]]
-tag = '学习提升'
+tag = '学科专区'
 css = 'icon-graduation-cap'
 
 [[list.sub]]
@@ -181,7 +181,11 @@ css = 'icon-lightbulb'
     siteLink="https://space.bilibili.com/338235854"
     siteLogo="https://i2.hdslb.com/bfs/face/36d5c5227f1c9618ed4fef80ce175cb3f2ab4d56.jpg"
     description="植物&自然科普欢迎您。阿斯扒拉菇丝"
-    
+
+[[list]]
+tag = '教学专区'
+css = 'icon-star'
+
 [[list.sub]]
 tag = '组卷网站'
 css = 'icon-money'
@@ -198,26 +202,67 @@ css = 'icon-money'
     description="金太阳"
 
 [[list.sub]]
-tag = '课程方案+标准'
+tag = '课程方案&标准'
 css = 'icon-key'
 
     [[list.sub.item]]
     siteName="普通高中"
     siteLink="http://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html"
-    siteLogo="http://www.moe.gov.cn/favorite.ico"
+    siteLogo=""
     description="教育部"
     [[list.sub.item]]
     siteName="义务教育"
     siteLink="https://www.gov.cn/zhengce/zhengceku/2022-04/21/content_5686535.htm"
-    siteLogo="http://www.moe.gov.cn/favorite.ico"
+    siteLogo=""
     description="教育部"
 
 [[list]]
-tag = '办公专区'
+tag = '影音频道'
+css = 'icon-cd'
+
+[[list.sub]]
+tag = '影视媒体'
+css = 'icon-videocam'
+
+    [[list.sub.item]]
+    siteName="哔哩哔哩"
+    siteLink="https://www.bilibili.com/"
+    siteLogo="https://www.bilibili.com/favicon.ico?v=1"
+    description=" (゜-゜)つロ 干杯~-bilibili"
+    [[list.sub.item]]
+    siteName="YouTube"
+    siteLink="https://www.youtube.com/"
+    siteLogo="res/logos/youtube.png"
+    description="YouTube.com"
+
+[[list.sub]]
+tag = '音乐阅读'
+css = 'icon-music'
+
+    [[list.sub.item]]
+    siteName="Anna’s Archive"
+    siteLink="https://annas-archive.org/"
+    siteLogo="res/logos/anna.png"
+    description="安娜的图书馆"
+
+    [[list.sub.item]]
+    siteName="Internet Archive"
+    siteLink="https://archive.org/"
+    siteLogo="res/logos/archive.ico"
+    description="互联网档案馆"
+
+    [[list.sub.item]]
+    siteName="Sci-Hub"
+    siteLink="https://sci-hub.st/"
+    siteLogo="res/logos/sci-hub.ico"
+    description="免费获取学术期刊"
+
+[[list]]
+tag = 'Windows'
 css = 'icon-desktop'
 
 [[list.sub]]
-tag = 'Windows'
+tag = 'OS'
 css = 'icon-cd'
 
     [[list.sub.item]]
@@ -234,7 +279,7 @@ css = 'icon-cd'
     [[list.sub.item]]
     siteName="OS.click"
     siteLink="https://os.click/en"
-    siteLogo="https://os.click/build/images/favicon.bf5f4560.ico"
+    siteLogo=""
     description="Download Windows and Linux ISO lightning fast"
 
     [[list.sub.item]]
@@ -250,7 +295,7 @@ css = 'icon-cd'
     description="TechBench by WZT"
 
 [[list.sub]]
-tag = '实用软件'
+tag = 'Software'
 css = 'icon-cog'
 
     [[list.sub.item]]
@@ -342,148 +387,84 @@ css = 'icon-cog'
     siteLogo="https://msfree.su/data/assets/logo/favicon.png"
     description="MS Windows 和 Office 程序"
 
-[[list.sub]]
-tag = '代码托管'
+[[list]]
+tag = "更多导航"
 css = 'icon-database'
 
-    [[list.sub.item]]
+    [[list.item]]
     siteName="GitHub"
     siteLink="https://github.com/"
     siteLogo="https://github.githubassets.com/favicons/favicon.svg"
     description="全球最大的同性交友网站"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="GitLab"
     siteLink="https://about.gitlab.com/"
     siteLogo="https://about.gitlab.com/nuxt-images/ico/favicon.ico"
     description="DevSecOps platform"
 
-[[list.sub]]
-tag = '静态网站'
-css = 'icon-cloud'
-
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Cloudflare Pages"
     siteLink="https://pages.cloudflare.com/"
     siteLogo="https://pages.cloudflare.com/favicon.ico"
     description="前端开发协作和部署网站"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Vercel"
     siteLink="https://vercel.com/"
     siteLogo="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
     description="前端云构建和部署平台"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Netlify"
     siteLink="https://app.netlify.com/"
     siteLogo="https://www.netlify.com/v3/static/favicon/apple-touch-icon.png"
     description="Netlify 组合式 web 平台"
 
-[[list.sub]]
-tag = '域名工具'
-css = 'icon-truck'
-
-    [[list.sub.item]]
+    [[list.item]]
     siteName="NameSilo"
     siteLink="https://www.namesilo.com/"
     siteLogo="https://www.namesilo.com/favicon.ico"
     description="Cheap Domain Names & Web Hosting Starting"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="DNSPod"
     siteLink="https://www.dnspod.cn/"
     siteLogo="https://cloudcache.tencent-cloud.cn/open_proj/proj_qcloud_v2/tc-console/dnspod/gateway/css/img/dnspod.ico"
     description="免费智能DNS解析服务商"
 
-[[list.sub]]
-tag = '图标icons'
-css = 'icon-diamond'
-
-    [[list.sub.item]]
+    [[list.item]]
     siteName="UXWing"
     siteLink="https://uxwing.com/"
     siteLogo="https://uxwing.com/wp-content/themes/uxwing/images/apple-touch-icon-114.png"
     description="Free icons download for commercial use | Free icons SVG, PNG"
 
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Favicon Generator"
     siteLink="https://realfavicongenerator.net/"
     siteLogo="https://realfavicongenerator.net/the_favicon/apple-touch-icon.png"
     description="Favicon Generator for perfect icons on all browsers"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Font Awesome"
     siteLink="https://fontawesome.com/"
     siteLogo="https://fontawesome.com/images/favicon/icon.svg"
     description="Font Awesome"
-    
-[[list.sub]]
-tag = '图片处理'
-css = 'icon-photo'
-    [[list.sub.item]]
+
+    [[list.item]]
     siteName="TinyPNG"
     siteLink="https://tinify.cn/"
     siteLogo="https://tinify.cn/images/apple-touch-icon.png"
     description="压缩PNG图片的同时保留透明度。"
 
-[[list.sub]]
-tag = '在线翻译'
-css = 'icon-paper-plane'
-
-    [[list.sub.item]]
+    [[list.item]]
     siteName="DeepL翻译"
     siteLink="https://www.deepl.com/translator"
     siteLogo="res/logos/deepl.png"
     description="全世界最准确的翻译"
-    [[list.sub.item]]
+    [[list.item]]
     siteName="有道翻译"
     siteLink="https://fanyi.youdao.com"
     siteLogo="https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png"
     description="文本、文档、网页、在线即时翻译"
-    
-[[list.sub]]
-tag = '医学资源'
-css = 'icon-globe'
 
-    [[list.sub.item]]
+    [[list.item]]
     siteName="默沙东诊疗手册"
     siteLink="https://www.msdmanuals.cn/"
     siteLogo="https://www.msdmanuals.cn/Content/Images/Redesign/mm_logo.svg"
     description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
-[[list]]
-tag = '影音频道'
-css = 'icon-cd'
-
-[[list.sub]]
-tag = '影视媒体'
-css = 'icon-videocam'
-
-    [[list.sub.item]]
-    siteName="哔哩哔哩"
-    siteLink="https://www.bilibili.com/"
-    siteLogo="https://www.bilibili.com/favicon.ico?v=1"
-    description=" (゜-゜)つロ 干杯~-bilibili"
-    [[list.sub.item]]
-    siteName="YouTube"
-    siteLink="https://www.youtube.com/"
-    siteLogo="res/logos/youtube.png"
-    description="YouTube.com"
-
-[[list.sub]]
-tag = '音乐阅读'
-css = 'icon-music'
-
-    [[list.sub.item]]
-    siteName="Anna’s Archive"
-    siteLink="https://annas-archive.org/"
-    siteLogo="res/logos/anna.png"
-    description="安娜的图书馆"
-
-    [[list.sub.item]]
-    siteName="Internet Archive"
-    siteLink="https://archive.org/"
-    siteLogo="res/logos/archive.ico"
-    description="互联网档案馆"
-
-    [[list.sub.item]]
-    siteName="Sci-Hub"
-    siteLink="https://sci-hub.st/"
-    siteLogo="https://sci-hub.st/favicon.ico"
-    description="免费获取学术期刊"
-

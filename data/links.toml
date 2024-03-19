@@ -464,6 +464,17 @@ css = 'icon-database'
     description="文本、文档、网页、在线即时翻译"
 
     [[list.item]]
+    siteName="Markdown"
+    siteLink="https://editor.mdnice.com/"
+    siteLogo="https://editor.mdnice.com/favicon.svg"
+    description="让排版变 Nice"
+    [[list.item]]
+    siteName="微信公众平台"
+    siteLink="https://mp.weixin.qq.com/"
+    siteLogo="https://res.wx.qq.com/a/fed_upload/9300e7ac-cec5-4454-b75c-f92260dd5b47/logo-mp.ico"
+    description="给个人、企业和组织提供业务服务与用户管理能力的全新服务平台"
+
+    [[list.item]]
     siteName="默沙东诊疗手册"
     siteLink="https://www.msdmanuals.cn/"
     siteLogo="https://www.msdmanuals.cn/Content/Images/Redesign/mm_logo.svg"

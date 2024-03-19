@@ -412,7 +412,15 @@ css = 'icon-diamond'
     siteLink="https://fontawesome.com/"
     siteLogo="https://fontawesome.com/images/favicon/icon.svg"
     description="Font Awesome"
-
+    
+[[list.sub]]
+tag = '图片处理'
+css = 'icon-photo'
+    [[list.sub.item]]
+    siteName="TinyPNG"
+    siteLink="https://tinify.cn/"
+    siteLogo="https://tinify.cn/images/apple-touch-icon.png"
+    description="压缩PNG图片的同时保留透明度。"
 
 [[list.sub]]
 tag = '在线翻译'

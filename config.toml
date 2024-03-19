@@ -19,7 +19,8 @@ title = "诗往の导航"
     # 开启访问量统计
     busuanzi = "false"
 
+# 不转义 Markdown 中的 HTML
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true

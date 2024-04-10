@@ -18,6 +18,7 @@ iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/
 
 
 地址1：https://www.123pan.com/s/xY3DVv-CITAA.html 提取码:51MW
+
 地址2：https://wwi.lanzoup.com/b0fobhzqj 密码:e445
 
 备注：链接内包含学习版和注册机，学习版安装后可直接用，稳定去弹窗不更新。如果安装的是官方原版，请用注册机（Crack）破解。

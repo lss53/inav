@@ -105,6 +105,16 @@ css = 'icon-mobile'
     siteLink="https://space.bilibili.com/229823308"
     siteLogo="https://i1.hdslb.com/bfs/face/58e25762106ecfe1a599e54c271eed8d48541763.jpg"
     description="高中生物。检身自省，砥砺前行。" 
+    [[list.sub.item]]
+    siteName="生物错题本"
+    siteLink="https://space.bilibili.com/278461350"
+    siteLogo="https://i0.hdslb.com/bfs/face/6476561f881f8b71aa335c07cbb75b71d38fbabd.jpg"
+    description="因为有了因为，所以有了所以，既然已成既然，何必再说何必。" 
+    [[list.sub.item]]
+    siteName="学生物真有范"
+    siteLink="https://space.bilibili.com/1544790706"
+    siteLogo="https://i1.hdslb.com/bfs/face/3d59a80a04405114e86533d946e5268b85eaac75.jpg"
+    description="因为有了因为，所以有了所以，既然已成既然，何必再说何必。" 
 
 [[list.sub]]
 tag = '文科综合'

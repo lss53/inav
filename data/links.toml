@@ -225,7 +225,7 @@ css = 'icon-money'
     [[list.sub.item]]
     siteName="九科星"
     siteLink="https://www.jkxjxw.com/"
-    siteLogo="https://jty-open-new.obs.cn-north-4.myhuaweicloud.com/jkxWeb/2024-3-14/static/img/newlogo.af0519c.svg"
+    siteLogo="https://www.jkxjxw.com/static/favicon.ico"
     description="金太阳"
 
 [[list.sub]]
@@ -458,7 +458,7 @@ css = 'icon-cog'
     [[list.sub.item]]
     siteName="MAS/IAS"
     siteLink="https://massgrave.dev/"
-    siteLogo="https://massgrave.dev/images/favicon.ico"
+    siteLogo="https://massgrave.dev/img/favicon.ico"
     description="Microsoft Activation Scripts (MAS)"
 
     [[list.sub.item]]
@@ -578,3 +578,20 @@ css = 'icon-database'
     siteLogo=""
     description="不可用，点同类型"
 
+    [[list.item]]
+    siteName="山东省教师教育网"
+    siteLink="https://www.qlteacher.com/"
+    siteLogo="https://www.qlteacher.com/favicon.ico"
+    description="继续教育"
+    
+    [[list.item]]
+    siteName="国家中小学智慧教育平台"
+    siteLink="https://basic.smartedu.cn/"
+    siteLogo="https://basic.smartedu.cn/favicon.ico"
+    description="教师研修"
+    
+    [[list.item]]
+    siteName="重庆人社培训网"
+    siteLink="https://www.cqrspx.cn/"
+    siteLogo=""
+    description="公需科目"

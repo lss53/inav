@@ -225,7 +225,7 @@ css = 'icon-money'
     [[list.sub.item]]
     siteName="九科星"
     siteLink="https://www.jkxjxw.com/"
-    siteLogo="https://www.jkxjxw.com/static/favicon.ico"
+    siteLogo=""
     description="金太阳"
 
 [[list.sub]]
@@ -398,7 +398,7 @@ css = 'icon-cog'
     [[list.sub.item]]
     siteName="REPACK"
     siteLink="https://repack.me/"
-    siteLogo="https://repack.me/templates/Great/images/favicons/favicon-32x32.png"
+    siteLogo=""
     description="Репаки от Кролика - REPACK.ME"
 
     [[list.sub.item]]

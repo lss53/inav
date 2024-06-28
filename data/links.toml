@@ -300,6 +300,12 @@ css = 'icon-heart'
     siteLink="https://github.com/HaujetZhao/CapsWriter-Offline"
     siteLogo="https://github.githubassets.com/favicons/favicon.svg"
     description="一个 PC 端的语音输入、字幕转录工具"
+    
+    [[list.sub.item]]
+    siteName="Suno"
+    siteLink="https://suno.com"
+    siteLogo="https://suno.com/favicon.ico"
+    description="音乐"
 
 [[list]]
 tag = '影音频道'

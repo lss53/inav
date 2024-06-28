@@ -7,7 +7,7 @@ tag = '主科综合'
 css = 'icon-mobile'
 
     [[list.sub.item]]
-    siteName="学过石油的语文老师"
+    siteName="学过石油的语文老师（奇哥）"
     siteLink="https://space.bilibili.com/39737405"
     siteLogo="https://i2.hdslb.com/bfs/face/fce5a10be530b829da3c20b5caeea7fdbe6a1068.jpg"
     description="高中语文。有很多干货硬货，对高考有深入研究。"
@@ -163,6 +163,17 @@ tag = '百科综合'
 css = 'icon-lightbulb'
 
     [[list.sub.item]]
+    siteName="取景框看世界"
+    siteLink="https://space.bilibili.com/40427625"
+    siteLogo="https://i0.hdslb.com/bfs/face/0d671560a6dd7f28247b3b7501d404a5b01280ea.jpg"
+    description="你的B站大学辅导员，志愿填报。" 
+    [[list.sub.item]]
+    siteName="框框大学"
+    siteLink="https://www.kkdaxue.com"
+    siteLogo=""
+    description="发现各专业前辈们的学习建议。" 
+    
+    [[list.sub.item]]
     siteName="教日语的阿飞老师"
     siteLink="https://space.bilibili.com/383433896"
     siteLogo="https://i2.hdslb.com/bfs/face/174d2af1489627abd5416ba38467506a1d37c75a.jpg"
@@ -191,6 +202,12 @@ css = 'icon-lightbulb'
     siteLink="https://space.bilibili.com/338235854"
     siteLogo="https://i2.hdslb.com/bfs/face/36d5c5227f1c9618ed4fef80ce175cb3f2ab4d56.jpg"
     description="植物&自然科普欢迎您。阿斯扒拉菇丝"
+    
+    [[list.sub.item]]
+    siteName="程序员鱼皮"
+    siteLink="https://space.bilibili.com/12890453"
+    siteLogo="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg"
+    description="全栈开发小哥，用编程做点有趣的事。"
 
 [[list]]
 tag = '教学专区'

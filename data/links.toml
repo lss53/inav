@@ -233,21 +233,33 @@ tag = '人教教学资源'
 css = 'icon-key'
 
     [[list.sub.item]]
-    siteName="普通高中"
-    siteLink="http://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html"
-    siteLogo=""
-    description="教育部印发的普通高中课程方案和课程标准（2017年版2020年修订）"
-    [[list.sub.item]]
-    siteName="义务教育"
-    siteLink="https://www.gov.cn/zhengce/zhengceku/2022-04/21/content_5686535.htm"
-    siteLogo=""
-    description="教育部印发的义务教育课程方案和课程标准（2022年版）"
-
-    [[list.sub.item]]
     siteName="中小学教材电子版"
     siteLink="https://jc.pep.com.cn/"
     siteLogo=""
     description="2023年9月学生用书"
+
+    [[list.sub.item]]
+    siteName="义务教育（在线）"
+    siteLink="https://www.pep.com.cn/xw/zt/rjwy/yjkb2022"
+    siteLogo=""
+    description="义务教育课程方案和课程标准（2022年版）"
+    [[list.sub.item]]
+    siteName="义务教育（离线）"
+    siteLink="https://www.gov.cn/zhengce/zhengceku/2022-04/21/content_5686535.htm"
+    siteLogo=""
+    description="义务教育课程方案和课程标准（2022年版）"
+
+    [[list.sub.item]]
+    siteName="普通高中（在线）"
+    siteLink="https://www.pep.com.cn/xw/zt/rjwy/gzkb2020"
+    siteLogo=""
+    description="普通高中课程方案和课程标准（2017年版2020年修订）"
+    [[list.sub.item]]
+    siteName="普通高中（离线）"
+    siteLink="http://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html"
+    siteLogo=""
+    description="普通高中课程方案和课程标准（2017年版2020年修订）"
+
  
 [[list.sub]]
 tag = '人工智能'

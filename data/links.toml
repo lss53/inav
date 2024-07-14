@@ -334,7 +334,7 @@ css = 'icon-heart'
     siteName="ChatTTS-Forge"
     siteLink="https://huggingface.co/spaces/lenML/ChatTTS-Forge"
     siteLogo=""
-    description="一个围绕 TTS 生成模型 ChatTTS 开发的项目，实现了 API Server 和 基于 Gradio 的 WebUI。"
+    description="文本转语音，需要梯子"
     
     [[list.item]]
     siteName="秘塔AI搜索"

@@ -209,6 +209,11 @@ css = 'icon-lightbulb'
     siteLogo="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg"
     description="全栈开发小哥，用编程做点有趣的事。"
 
+    [[list.sub.item]]
+    siteName="菜鸟主老王"
+    siteLink="https://space.bilibili.com/15929124"
+    siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
+    description="EduEditer。"
 [[list]]
 tag = '教学专区'
 css = 'icon-star'
@@ -325,6 +330,18 @@ css = 'icon-heart'
     siteLogo="https://suno.com/favicon.ico"
     description="音乐"
 
+    [[list.sub.item]]
+    siteName="ChatTTS"
+    siteLink="https://chattts.com/zh#Demo"
+    siteLogo="https://chattts.com/favicon.ico"
+    description="用于对话场景的文本转语音"
+    
+    [[list.item]]
+    siteName="秘塔AI搜索"
+    siteLink="https://metaso.cn/"
+    siteLogo="https://metaso.cn/apple-touch-icon.png"
+    description="没有广告，直达结果"
+   
 [[list]]
 tag = '影音频道'
 css = 'icon-cd'
@@ -619,3 +636,5 @@ css = 'icon-database'
     siteLink="https://www.cqrspx.cn/"
     siteLogo=""
     description="公需科目"
+
+  

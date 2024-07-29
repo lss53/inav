@@ -28,6 +28,11 @@ css = 'icon-mobile'
     siteLogo="https://i1.hdslb.com/bfs/face/812281bada7d323c23c6e1e2e92749bd29b7d7c6.jpg"
     description="高中数学。极其适合数学基础需要巩固的同学。"
     [[list.sub.item]]
+    siteName="赵礼显老师"
+    siteLink="https://space.bilibili.com/488738478"
+    siteLogo="https://i0.hdslb.com/bfs/face/10268384ec0466c132350d0d402a6ceb0660d6d2.jpg"
+    description="高中数学。传授学习方法提分技巧。"
+    [[list.sub.item]]
     siteName="佟大大还是ETT"
     siteLink="https://space.bilibili.com/123321175"
     siteLogo="https://i1.hdslb.com/bfs/face/fb06b9913b696bd5989b6e393c654083bae1ef07.jpg"

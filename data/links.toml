@@ -332,7 +332,7 @@ css = 'icon-heart'
     [[list.sub.item]]
     siteName="Suno"
     siteLink="https://suno.com"
-    siteLogo="https://suno.com/favicon.ico"
+    siteLogo=""
     description="音乐"
 
     [[list.sub.item]]
@@ -346,6 +346,18 @@ css = 'icon-heart'
     siteLink="https://metaso.cn/"
     siteLogo="https://metaso.cn/apple-touch-icon.png"
     description="没有广告，直达结果"
+
+    [[list.item]]
+    siteName="豆包"
+    siteLink="https://www.doubao.com/"
+    siteLogo="https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png"
+    description="字节跳动推出的免费AI对话助手，无需登录即可在输入框提问开始聊天"
+
+    [[list.item]]
+    siteName="Coze"
+    siteLink="https://www.coze.com/"
+    siteLogo="https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png"
+    description="字节推出的AI机器人和智能体创建平台"    
    
 [[list]]
 tag = '影音频道'

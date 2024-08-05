@@ -341,19 +341,19 @@ css = 'icon-heart'
     siteLogo=""
     description="文本转语音，需要梯子"
     
-    [[list.item.item]]
+    [[list.sub.item]]
     siteName="秘塔AI搜索"
     siteLink="https://metaso.cn/"
     siteLogo="https://metaso.cn/apple-touch-icon.png"
     description="没有广告，直达结果"
 
-    [[list.item.item]]
+    [[list.sub.item]]
     siteName="豆包"
     siteLink="https://www.doubao.com/"
     siteLogo="https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png"
     description="字节跳动推出的免费AI对话助手，无需登录即可在输入框提问开始聊天"
 
-    [[list.item.item]]
+    [[list.sub.item]]
     siteName="Coze"
     siteLink="https://www.coze.com/"
     siteLogo="https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png"

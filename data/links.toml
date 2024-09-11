@@ -10,54 +10,150 @@ css = 'icon-mobile'
     siteName="学过石油的语文老师（奇哥）"
     siteLink="https://space.bilibili.com/39737405"
     siteLogo="https://i2.hdslb.com/bfs/face/fce5a10be530b829da3c20b5caeea7fdbe6a1068.jpg"
-    description="高中语文。有很多干货硬货，对高考有深入研究。"
+    description="B站百大，人尽皆知，不多赘述"
     [[list.sub.item]]
     siteName="国家玮-开明致学"
     siteLink="https://space.bilibili.com/485578465"
     siteLogo="https://i1.hdslb.com/bfs/face/6913c82d0900810cb670cfcf686c7c34f26caa3f.jpg"
-    description="高中语文。风趣幽默，对考点把握很准。"
+    description="高中语文，非免费系统课"
     [[list.sub.item]]
     siteName="中文系五匪子"
     siteLink="https://space.bilibili.com/7920565"
     siteLogo="https://i1.hdslb.com/bfs/face/73b1f61fade50a390cd268098f189f1f543dcd1b.jpg"
-    description="高中语文。语文140朋克老姐。"
+    description="高中语文，语文140朋克老姐"
+    [[list.sub.item]]
+    siteName="春次是模板小砖家"
+    siteLink="https://space.bilibili.com/1667838104"
+    siteLogo="https://i2.hdslb.com/bfs/face/d258b65a77c0bfd0dbfc94df93791bcdae724371.jpg"
+    description="高中语文，主攻作文模板，提高作文文采、思辨性，无脑上50+"  
+    [[list.sub.item]]
+    siteName="OK语文"
+    siteLink="https://space.bilibili.com/3493281113573620"
+    siteLogo="https://i1.hdslb.com/bfs/face/0f60972d7a1cda9770982ede68758b8de31c084d.jpg"
+    description="百万UP主，与奇哥一样更新免费系统课"      
+    [[list.sub.item]]
+    siteName="语文作文菌"
+    siteLink="https://space.bilibili.com/505935166"
+    siteLogo="https://i1.hdslb.com/bfs/face/21630323977e1763c29794aabf9a808d0184195a.jpg"
+    description="高分作文学习鉴赏" 
+    [[list.sub.item]]
+    siteName="逻辑笑语文"
+    siteLink="https://space.bilibili.com/87931987"
+    siteLogo="https://i1.hdslb.com/bfs/face/eebb58f86622ff184262c17d07a15b1b62a3a043.jpg"
+    description="小众免费系统课" 
+    [[list.sub.item]]
+    siteName="教语文的杨哥"
+    siteLink="https://space.bilibili.com/3493281476381416"
+    siteLogo="https://i1.hdslb.com/bfs/face/8df8062779f616e993b2aca7fcd26bc3e7f904e1.jpg"
+    description="非免费系统课" 
+    [[list.sub.item]]
+    siteName="陈焕文-理性语文陈sir"
+    siteLink="https://space.bilibili.com/1429201958"
+    siteLogo="https://i2.hdslb.com/bfs/face/f8c29e3137039d6b80542698bc1c98e1bfeaa8e2.jpg"
+    description="作文&套卷" 
+
 
     [[list.sub.item]]
     siteName="一数"
     siteLink="https://space.bilibili.com/14229967"
     siteLogo="https://i1.hdslb.com/bfs/face/812281bada7d323c23c6e1e2e92749bd29b7d7c6.jpg"
-    description="高中数学。极其适合数学基础需要巩固的同学。"
+    description="高中数学，极其适合数学基础需要巩固的同学"
+    [[list.sub.item]]
+    siteName="ToMath小火车"
+    siteLink="https://space.bilibili.com/2918884"
+    siteLogo="https://i1.hdslb.com/bfs/face/49c1c9774588cdd8b521f887e7fc938c46d713bf.jpg"
+    description="数学老师的语文123"   
+    [[list.sub.item]]
+    siteName="无巧不成数"
+    siteLink="https://space.bilibili.com/98211484"
+    siteLogo="https://i1.hdslb.com/bfs/face/7a0009e5487bcf270cc0aed2ca7e9bb569591668.jpg"
+    description="讲得通透"     
+    [[list.sub.item]]
+    siteName="differ飘零"
+    siteLink="https://space.bilibili.com/363308722"
+    siteLogo="https://i1.hdslb.com/bfs/face/96ee0cd08cbaf00b2e42db94c13cf66d9a216c04.jpg"
+    description="成分杂，但很好" 
+    [[list.sub.item]]
+    siteName="夏老师的数学课"
+    siteLink="https://space.bilibili.com/379516008"
+    siteLogo="https://i0.hdslb.com/bfs/face/9af280580814e4cded0dcf78b0b681642035ef0b.jpg"
+    description="nb" 
+    [[list.sub.item]]
+    siteName="北大数学胡源老师"
+    siteLink="https://space.bilibili.com/3546705530194223"
+    siteLogo="https://i2.hdslb.com/bfs/face/4f08e4f9870b87bf193f3b43a98f18c0e4c0b2bf.jpg"
+    description="不讲废话，只教干货"
+    [[list.sub.item]]
+    siteName="Heshawn高中数学何帅"
+    siteLink="https://space.bilibili.com/68554357"
+    siteLogo="https://i1.hdslb.com/bfs/face/475e2ab949a0f426c12eef581892ae11c3b4f38a.jpg"
+    description="获取高考信息差，仅看视频即可!"
+    [[list.sub.item]]
+    siteName="马老师的观点"
+    siteLink="https://space.bilibili.com/88820221"
+    siteLogo="https://i1.hdslb.com/bfs/face/36288695eb263f09311021b5b267eb9a5977a0e9.jpg"
+    description="风趣幽默！持续更新《高考必刷题》视频讲解、《新高考精准模拟》视频讲解，资源群拥有网络上能找到的几乎所有卷子"
+    [[list.sub.item]]
+    siteName="橘子zhen好吃"
+    siteLink="https://space.bilibili.com/1956704656"
+    siteLogo="https://i1.hdslb.com/bfs/face/ced5cbcb91877f9d9b23830f24de835c670414af.jpg"
+    description="攻破解析几何、导数、概率等压轴"
+    [[list.sub.item]]
+    siteName="阿不高中数学"
+    siteLink="https://space.bilibili.com/1893613490"
+    siteLogo="https://i2.hdslb.com/bfs/face/d612a3faa4b7fe6d21f29143b75beba5a375bb96.jpg"
+    description="刷题、知识点都有"   
     [[list.sub.item]]
     siteName="赵礼显老师"
     siteLink="https://space.bilibili.com/488738478"
     siteLogo="https://i0.hdslb.com/bfs/face/10268384ec0466c132350d0d402a6ceb0660d6d2.jpg"
-    description="高中数学。传授学习方法提分技巧。"
+    description="高中数学，付费系统课（选适合自己的听）"
     [[list.sub.item]]
     siteName="佟大大还是ETT"
     siteLink="https://space.bilibili.com/123321175"
     siteLogo="https://i1.hdslb.com/bfs/face/fb06b9913b696bd5989b6e393c654083bae1ef07.jpg"
-    description="高中数学。"
+    description="高中数学"
     [[list.sub.item]]
     siteName="会放羊的教书匠"
     siteLink="https://space.bilibili.com/44980991"
     siteLogo="https://i2.hdslb.com/bfs/face/200dad9072cb5efecb4c42ee54e7c15a1d90f08c.jpg"
-    description="高中数学。华罗庚杯优秀教练员。"
+    description="高中数学，华罗庚杯优秀教练员"
+    [[list.sub.item]]
+    siteName="宋浩老师官方"
+    siteLink="https://space.bilibili.com/66607740"
+    siteLogo="https://i0.hdslb.com/bfs/face/743137ec91e924bf404f321fb5eeb8214627f759.jpg"
+    description="线性代数讲得贼明白"
 
     [[list.sub.item]]
     siteName="英语兔"
     siteLink="https://space.bilibili.com/483162496"
     siteLogo="https://i1.hdslb.com/bfs/face/3b7210faae45d9a21c25299f49f1eaa6695fb8da.jpg"
-    description="高中英语。在英语语音方面极好。"
+    description="高中英语，啥都有"
     [[list.sub.item]]
     siteName="英语的平行世界"
     siteLink="https://space.bilibili.com/388576777"
     siteLogo="https://i1.hdslb.com/bfs/face/e71e914701dfba8cda05340a177e50bec9d37db9.jpg"
-    description="高中英语。英语的知识覆盖面全。"
+    description="高中英语，英语的知识覆盖面全"
     [[list.sub.item]]
     siteName="FREE高考英语"
     siteLink="https://space.bilibili.com/2742391"
     siteLogo="https://i1.hdslb.com/bfs/face/2081199a93e69d154047712d68a6fc2a6391a311.jpg"
-    description="高中英语。新东方名师。"
+    description="从阅读理解角度切入英语，不死磕词汇；全年保姆级带你上分；在这学到的不仅仅是英语!"
+    [[list.sub.item]]
+    siteName="牛油果味牛排咦"
+    siteLink="https://space.bilibili.com/351383494"
+    siteLogo="https://i1.hdslb.com/bfs/face/97fc8d2589fa91a4337750a3786a4444b7ebfe3f.jpg"
+    description="阅读从思路方面切入，视频较短"
+    [[list.sub.item]]
+    siteName="杭州Looming老师"
+    siteLink="https://space.bilibili.com/1788209292"
+    siteLogo="https://i0.hdslb.com/bfs/face/79beab4ff83de7cb2d219e8a2a312ba056a59b6e.jpg"
+    description="英语高分作文讲解"
+    [[list.sub.item]]
+    siteName="一英儿"
+    siteLink="https://space.bilibili.com/632207543"
+    siteLogo="https://i2.hdslb.com/bfs/face/08d600bdd368c4e0e88441d1a9f560a02233c209.jpg"
+    description="一数旗下，质量较高"
 
 [[list.sub]]
 tag = '理科综合'
@@ -67,7 +163,7 @@ css = 'icon-mobile'
     siteName="HuangFuRen"
     siteLink="https://space.bilibili.com/23630128"
     siteLogo="https://i1.hdslb.com/bfs/face/ee9f604b328f538da350b939e41c80b6240ff1ec.png"
-    description="高中物理。黄夫人物理。"
+    description="高中物理，黄夫人物理，打牢基础很重要"
     [[list.sub.item]]
     siteName="一只不像老师的小怀怀"
     siteLink="https://space.bilibili.com/344693660"
@@ -77,7 +173,37 @@ css = 'icon-mobile'
     siteName="一物理儿"
     siteLink="https://space.bilibili.com/1881916943"
     siteLogo="https://i2.hdslb.com/bfs/face/22f20f258fab0691ab3a51cad383047dc10a36d4.jpg"
-    description="高中物理。学物理得有冲动、恒心与毅力"
+    description="一数旗下，学物理得有冲动、恒心与毅力"
+    [[list.sub.item]]
+    siteName="赵玉峰大物理"
+    siteLink="https://space.bilibili.com/383098482"
+    siteLogo="https://i0.hdslb.com/bfs/face/2026f6613863fc08f5dc3c2288a7d0fcaece6778.jpg"
+    description="题型+重难点攻破"
+    [[list.sub.item]]
+    siteName="物理界最好的段子手"
+    siteLink="https://space.bilibili.com/323593541"
+    siteLogo="https://i2.hdslb.com/bfs/face/b231830c01cd818a203a139e2226481fbaf5758d.jpg"
+    description="考前大数据押题，课本回归"
+    [[list.sub.item]]
+    siteName="北大学长跳跳"
+    siteLink="https://space.bilibili.com/439177375"
+    siteLogo="https://i1.hdslb.com/bfs/face/5ad3bde0d2069d7d2429fd0554153828ed7238e1.jpg"
+    description="免费系统课，选适合自己的听"
+    [[list.sub.item]]
+    siteName="夏梦迪-高考物理"
+    siteLink="https://space.bilibili.com/53265107"
+    siteLogo="https://i2.hdslb.com/bfs/face/90777fcfddb89da8d9a0356025a629b1277b4959.jpg"
+    description="前新东方高管、功勋教师、培训师，讲授高中物理16年"
+    [[list.sub.item]]
+    siteName="晴姐有美有物理"
+    siteLink="https://space.bilibili.com/3546721388857977"
+    siteLogo="https://i0.hdslb.com/bfs/face/4fa29cc5c95d98284d79977dc5678da4d225c336.jpg"
+    description="高中物理老师晴姐，也是你亲姐"
+    [[list.sub.item]]
+    siteName="于总CEO"
+    siteLink="https://space.bilibili.com/328350981"
+    siteLogo="https://i0.hdslb.com/bfs/face/91b2a73901f7e92e024a204fafa171db8c3db5c7.jpg"
+    description="初中物理"
 
     [[list.sub.item]]
     siteName="化学超人"
@@ -93,13 +219,53 @@ css = 'icon-mobile'
     siteName="化学老师李政"
     siteLink="https://space.bilibili.com/476738879"
     siteLogo="https://i2.hdslb.com/bfs/face/d723c43d92a9bdb852e4d454d2640ce712320165.jpg"
-    description="高中化学。"   
+    description="高中化学，公认的真神" 
+    [[list.sub.item]]
+    siteName="桃子姐姐化学课"
+    siteLink="https://space.bilibili.com/1498318933"
+    siteLogo="https://i1.hdslb.com/bfs/face/853cea86dd91dd1838f4d88a83c460394d3ce420.jpg"
+    description="重难点攻破，知识点记忆技巧，题型攻破。强烈推荐！" 
+    [[list.sub.item]]
+    siteName="酒吧舞化学人"
+    siteLink="https://space.bilibili.com/394995667"
+    siteLogo="https://i1.hdslb.com/bfs/face/76c72d68da8880000ec496677fa24e641472e583.jpg"
+    description="试卷讲评&资料分享" 
+    [[list.sub.item]]
+    siteName="化学教员张子涵"
+    siteLink="https://space.bilibili.com/407270850"
+    siteLogo="https://i0.hdslb.com/bfs/face/6f466a4919b7f65401c298f1a74d7249bb43f3a0.jpg"
+    description="化学思维培养讲题" 
+    [[list.sub.item]]
+    siteName="一化儿"
+    siteLink="https://space.bilibili.com/1526560679"
+    siteLogo="https://i2.hdslb.com/bfs/face/f7dd769022b6a0326bd88d8ce3f6bab654bd1255.jpg"
+    description="质量标杆，基础救星" 
+    [[list.sub.item]]
+    siteName="化学玉"
+    siteLink="https://space.bilibili.com/396025614"
+    siteLogo="https://i0.hdslb.com/bfs/face/4711743839ca42ff149544d6ed3108d574bc2c34.jpg"
+    description="学晶胞时候过来看下动画" 
+    [[list.sub.item]]
+    siteName="agening化学"
+    siteLink="https://space.bilibili.com/70605667"
+    siteLogo="https://i1.hdslb.com/bfs/face/f2cd000b8497b89f12064672456a3e7395de7d92.jpg"
+    description="卷子、题型讲解" 
+    [[list.sub.item]]
+    siteName="化化学院老凡"
+    siteLink="https://space.bilibili.com/612929803"
+    siteLogo="https://i1.hdslb.com/bfs/face/aeedddbc0891400da09e2000690f885ca82939db.jpg"
+    description="素养提高" 
+    [[list.sub.item]]
+    siteName="云和山的彼端123ok"
+    siteLink="https://space.bilibili.com/246216714"
+    siteLogo="https://i0.hdslb.com/bfs/face/bad6d6e02deb7242a899b725a938aee8a8ceb451.jpg"
+    description="素养提高" 
 
     [[list.sub.item]]
     siteName="一生儿"
     siteLink="https://space.bilibili.com/2036187097"
     siteLogo="https://i1.hdslb.com/bfs/face/46ddec75dcd3040ab1b170c54c4d2e8bab091995.jpg"
-    description="高中生物。重难点突破。"  
+    description="高中生物，质量标杆，免费系统课"  
     [[list.sub.item]]
     siteName="汉水丑生侯伟"
     siteLink="https://space.bilibili.com/519546088"
@@ -109,7 +275,7 @@ css = 'icon-mobile'
     siteName="李林生物"
     siteLink="https://space.bilibili.com/229823308"
     siteLogo="https://i1.hdslb.com/bfs/face/58e25762106ecfe1a599e54c271eed8d48541763.jpg"
-    description="高中生物。检身自省，砥砺前行。" 
+    description="高中生物，强推《李林生物笔记》" 
     [[list.sub.item]]
     siteName="生物错题本"
     siteLink="https://space.bilibili.com/278461350"
@@ -119,8 +285,12 @@ css = 'icon-mobile'
     siteName="学生物真有范"
     siteLink="https://space.bilibili.com/1544790706"
     siteLogo="https://i1.hdslb.com/bfs/face/3d59a80a04405114e86533d946e5268b85eaac75.jpg"
-    description="高中生物。" 
-
+    description="高中生物" 
+    [[list.sub.item]]
+    siteName="见医知二"
+    siteLink="https://space.bilibili.com/1842737120"
+    siteLogo="https://i2.hdslb.com/bfs/face/240686daf08ec17d3a812f9b9f019c3ddc9c8dc7.jpg"
+    description="动画生物" 
 [[list.sub]]
 tag = '文科综合'
 css = 'icon-mobile'
@@ -182,7 +352,12 @@ css = 'icon-lightbulb'
     siteName="教日语的阿飞老师"
     siteLink="https://space.bilibili.com/383433896"
     siteLogo="https://i2.hdslb.com/bfs/face/174d2af1489627abd5416ba38467506a1d37c75a.jpg"
-    description="5岁开始留学日本。" 
+    description="5岁开始留学日本" 
+    [[list.sub.item]]
+    siteName="日语提分大师24個老李"
+    siteLink="https://space.bilibili.com/10886303"
+    siteLogo="https://i2.hdslb.com/bfs/face/56e5a81920c9fc02eb4be1c06619096ff8a7adf8.jpg"
+    description="【日语高考】十年一线日语教育提分经验" 
 
     [[list.sub.item]]
     siteName="YJango"
@@ -654,4 +829,8 @@ css = 'icon-database'
     siteLogo=""
     description="公需科目"
 
-  
+    [[list.item]]
+    siteName="重庆市中小学教师培训学分信息管理系统"
+    siteLink="http://teacher.jsfz.cqedu.cn/login?Logout"
+    siteLogo=""
+    description="继续教育"

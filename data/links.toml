@@ -445,7 +445,11 @@ css = 'icon-key'
     siteLogo=""
     description="普通高中课程方案和课程标准（2017年版2020年修订）"
 
- 
+    [[list.sub.item]]
+    siteName="51好课"
+    siteLink="http://www.51haoke.com/"
+    siteLogo=""
+    description="重庆巴蜀中学教师团队倾力打造"
 [[list.sub]]
 tag = '人工智能'
 css = 'icon-heart'
@@ -605,13 +609,18 @@ css = 'icon-cd'
     siteLink="https://uupdump.net/"
     siteLogo="https://uupdump.net/static/images/logo.svg"
     description="直接从 Windows 更新下载统一更新平台的文件"
-    
+
     [[list.sub.item]]
     siteName="TechBench"
     siteLink="https://tb.rg-adguard.net/"
     siteLogo="https://tb.rg-adguard.net/favicon.ico"
     description="TechBench by WZT"
 
+    [[list.sub.item]]
+    siteName="KMS"
+    siteLink="https://blog.03k.org/post/kms.html"
+    siteLogo=""
+    description="KMS激活Windows/Office口袋指南"
 [[list.sub]]
 tag = 'Software'
 css = 'icon-cog'
@@ -721,6 +730,11 @@ css = 'icon-database'
     siteLink="https://github.com/"
     siteLogo="https://github.githubassets.com/favicons/favicon.svg"
     description="全球最大的同性交友网站"
+    [[list.item]]
+    siteName="GitHub 文件加速"
+    siteLink="https://gh.api.99988866.xyz/"
+    siteLogo=""
+    description="GitHub文件链接带不带协议头都可以"
     [[list.item]]
     siteName="GitLab"
     siteLink="https://about.gitlab.com/"

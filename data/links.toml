@@ -578,6 +578,12 @@ css = 'icon-music'
     siteLink="https://sci-hub.st/"
     siteLogo="res/logos/sci-hub.ico"
     description="免费获取学术期刊"
+    [[list.sub.item]]
+    siteName="电脑书籍"
+    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL "
+    siteLogo=""
+    description="KEY：r48g"
+
 
 [[list]]
 tag = 'Windows'

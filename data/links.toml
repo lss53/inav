@@ -726,6 +726,11 @@ css = 'icon-cog'
     siteLogo="https://www.itrmb.com/view/img/favicon.ico"
     description="免费下载绿色软件APP 无会员 不收费"
 
+    [[list.sub.item]]
+    siteName="QQ"
+    siteLink="https://www.123pan.com/s/b6cA-wUxpA.html"
+    siteLogo=""
+    description="apphot.cc"
 
 [[list]]
 tag = "更多导航"

@@ -6,11 +6,12 @@ comment: false
 
 ## 前言
 
-确保您的QQNT是官网最新正版。官方下载：QQ Windows版 
+确保您的QQNT是官网最新正版。官方下载：[QQ Windows版](https://im.qq.com/index)
 
 如果QQNT客户端更新后，插件失灵，请及时更新插件包，如下所示。
 
-最新的插件包：https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/releases
+最新的插件包：
+https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/releases
 
 ## 安装
 
@@ -18,7 +19,7 @@ comment: false
 
 1，先退出QQNT软件；
 
-2，下载、双击安装、运行 install_windows  程序；
+2，下载、双击安装、运行 install_windows 程序；
 https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/
 
 重启QQNT后变成LiteLoaderQQNT版本，可以自由安装插件了；
@@ -33,7 +34,7 @@ https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/
 
 ## 主题推荐
 
-1，下载主题：LiteLoaderQQNT-MSpring-Theme ；
+1，下载主题：[LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) ；
 
 2，将主题文件夹（还是老位置）放到 resources\app\LiteLoaderQQNT-main\plugins 目录下；
 

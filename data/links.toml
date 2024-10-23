@@ -393,6 +393,7 @@ css = 'icon-lightbulb'
     siteName="菜鸟主老王"
     siteLink="https://space.bilibili.com/15929124"
     siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
+
     description="EduEditer。"
 [[list]]
 tag = '教学专区'
@@ -741,11 +742,25 @@ css = 'icon-database'
     siteLink="https://github.com/"
     siteLogo="https://github.githubassets.com/favicons/favicon.svg"
     description="全球最大的同性交友网站"
+
+    [[list.item]]
+    siteName="Hellogithub"
+    siteLink="https://hellogithub.com"
+    siteLogo=""
+    description="Github 排行榜收集软件，每天翻一翻有惊喜 ing"
+
+    [[list.item]]
+    siteName="Watt Toolkit"
+    siteLink="https://steampp.net"
+    siteLogo=""
+    description="加速 github"
+
     [[list.item]]
     siteName="GitHub 文件加速"
     siteLink="https://gh.api.99988866.xyz/"
     siteLogo=""
     description="GitHub文件链接带不带协议头都可以"
+
     [[list.item]]
     siteName="GitLab"
     siteLink="https://about.gitlab.com/"
@@ -757,11 +772,13 @@ css = 'icon-database'
     siteLink="https://pages.cloudflare.com/"
     siteLogo="https://pages.cloudflare.com/favicon.ico"
     description="前端开发协作和部署网站"
+
     [[list.item]]
     siteName="Vercel"
     siteLink="https://vercel.com/"
     siteLogo="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
     description="前端云构建和部署平台"
+
     [[list.item]]
     siteName="Netlify"
     siteLink="https://app.netlify.com/"
@@ -773,6 +790,7 @@ css = 'icon-database'
     siteLink="https://www.namesilo.com/"
     siteLogo="https://www.namesilo.com/favicon.ico"
     description="Cheap Domain Names & Web Hosting Starting"
+
     [[list.item]]
     siteName="DNSPod"
     siteLink="https://www.dnspod.cn/"

@@ -834,7 +834,7 @@ css = 'icon-database'
     siteName="就是加速"
     siteLink="https://www.94speed.com/"
     siteLogo=""
-    description="不可用，点同类型"
+    description="同类型已死，克隆窝=ODE客户端"
 
     [[list.item]]
     siteName="山东省教师教育网"
@@ -859,3 +859,9 @@ css = 'icon-database'
     siteLink="http://teacher.jsfz.cqedu.cn/login?Logout"
     siteLogo=""
     description="继续教育"
+
+
+
+
+
+

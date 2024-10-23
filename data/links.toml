@@ -744,7 +744,7 @@ css = 'icon-database'
     description="全球最大的同性交友网站"
 
     [[list.item]]
-    siteName="Hellogithub"
+    siteName="HelloGitHub"
     siteLink="https://hellogithub.com"
     siteLogo=""
     description="Github 排行榜收集软件，每天翻一翻有惊喜 ing"
@@ -753,7 +753,7 @@ css = 'icon-database'
     siteName="Watt Toolkit"
     siteLink="https://steampp.net"
     siteLogo=""
-    description="加速 github"
+    description="GitHub 加速器"
 
     [[list.item]]
     siteName="GitHub 文件加速"

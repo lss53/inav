@@ -456,7 +456,7 @@ css = 'icon-key'
     siteName="福建高中生物QQ群资源"
     siteLink="https://share.feijipan.com/s/HQjdaFo"
     siteLogo=""
-    description="林颖韬软件share.feijipan.com/s/oLFrvec"
+    description="林颖韬"
 
 
 [[list.sub]]
@@ -589,9 +589,9 @@ css = 'icon-music'
     description="免费获取学术期刊"
     [[list.sub.item]]
     siteName="电脑书籍"
-    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL "
+    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL"
     siteLogo=""
-    description="KEY：r48g；netfood.ysepan.com"
+    description="KEY：r48g"
 
 
 [[list]]
@@ -740,6 +740,18 @@ css = 'icon-cog'
     siteLink="https://www.123pan.com/s/b6cA-wUxpA.html"
     siteLogo=""
     description="apphot.cc"
+
+    [[list.sub.item]]
+    siteName="常用软件"
+    siteLink="https://share.feijipan.com/s/oLFrvec"
+    siteLogo=""
+    description="林颖韬"
+
+    [[list.sub.item]]
+    siteName="老康软件铺"
+    siteLink="http://netfood.ysepan.com"
+    siteLogo=""
+    description="烈火群国宝2023"
 
 [[list]]
 tag = "更多导航"

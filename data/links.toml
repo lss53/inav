@@ -451,6 +451,14 @@ css = 'icon-key'
     siteLink="http://www.51haoke.com/"
     siteLogo=""
     description="重庆巴蜀中学教师团队倾力打造"
+
+    [[list.sub.item]]
+    siteName="福建高中生物QQ群资源"
+    siteLink="https://share.feijipan.com/s/HQjdaFo"
+    siteLogo=""
+    description="林颖韬软件share.feijipan.com/s/oLFrvec"
+
+
 [[list.sub]]
 tag = '人工智能'
 css = 'icon-heart'
@@ -583,7 +591,7 @@ css = 'icon-music'
     siteName="电脑书籍"
     siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL "
     siteLogo=""
-    description="KEY：r48g"
+    description="KEY：r48g；netfood.ysepan.com"
 
 
 [[list]]

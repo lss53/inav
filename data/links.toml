@@ -898,8 +898,16 @@ css = 'icon-database'
     siteLogo=""
     description="继续教育"
 
+    [[list.item]]
+    siteName="在线屏幕检测"
+    siteLink="https://screen.bmcx.com/#welcome"
+    siteLogo=""
+    description="图吧工具箱/屏幕工具，也可以"
 
-
-
+    [[list.item]]
+    siteName="屏幕刷新率检测"
+    siteLink="https://testufo.com"
+    siteLogo=""
+    description="UFO Test"
 
 

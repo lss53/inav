@@ -909,5 +909,10 @@ css = 'icon-database'
     siteLink="https://testufo.com"
     siteLogo=""
     description="UFO Test"
+    [[list.item]]
 
+    siteName="Via浏览器收藏合集"
+    siteLink="https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md"
+    siteLogo=""
+    description="@半梦半醒"
 

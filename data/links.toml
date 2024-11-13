@@ -869,12 +869,6 @@ css = 'icon-database'
     description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
 
     [[list.item]]
-    siteName="就是加速"
-    siteLink="https://www.94speed.com/"
-    siteLogo=""
-    description="同类型已死，克隆窝=ODE客户端"
-
-    [[list.item]]
     siteName="山东省教师教育网"
     siteLink="https://www.qlteacher.com/"
     siteLogo="https://www.qlteacher.com/favicon.ico"

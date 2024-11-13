@@ -8,9 +8,7 @@ comment: false
 
 [ODE](https://www.uy5.net/ode)易称”窝的”，是窝头将以 多功能生态为主扩展开发的应用
 
-1、下载地址
-
-[克隆窝高速下载A点](https://www.uy5.net/download/list/?u_user=1&path=00019700101000000001/1611iptRY1EL0552023011810483286j/1611iptRY1EL078202210220137074zo/1611iptRY1EL05720240506014422zwp)
+1、下载地址 [克隆窝高速下载A点](https://www.uy5.net/download/list/?u_user=1&path=00019700101000000001/1611iptRY1EL0552023011810483286j/1611iptRY1EL078202210220137074zo/1611iptRY1EL05720240506014422zwp)
 
 意外收获 https://www.uy5.net/download/list
 

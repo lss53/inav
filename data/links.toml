@@ -109,7 +109,7 @@ css = 'icon-attach'
     description="普通高中课程方案和课程标准（2017年版2020年修订）"
 
 [[list.sub]]
-tag = '题库等'
+tag = '题库资源'
 css = 'icon-doc'
 
     [[list.sub.item]]
@@ -143,14 +143,14 @@ css = 'icon-doc'
     description="EduEditer，教学文档和课件编排软件"
 
 [[list.sub]]
-tag = '继教'
+tag = '继续教育'
 css = 'icon-attach'
 
     [[list.sub.item]]
     siteName="山东省教师教育网"
     siteLink="https://www.qlteacher.com/"
     siteLogo="https://www.qlteacher.com/favicon.ico"
-    description="继续教育"
+    description="继教学分"
 
     [[list.sub.item]]
     siteName="重庆人社培训网"
@@ -162,9 +162,10 @@ css = 'icon-attach'
     siteName="重庆市中小学教师培训学分信息管理系统"
     siteLink="http://teacher.jsfz.cqedu.cn/login?Logout"
     siteLogo=""
-    description="继续教育"
+    description="继教登分"
+
 [[list.sub]]
-tag = 'kindle'
+tag = '图书馆'
 css = 'icon-note'
 
     [[list.sub.item]]
@@ -175,13 +176,13 @@ css = 'icon-note'
 
     [[list.sub.item]]
     siteName="Anna’s Archive"
-    siteLink="https://annas-archive.org/"
+    siteLink="https://annas-archive.org"
     siteLogo="res/logos/anna.png"
-    description="安娜的图书馆"
+    description="包括 Z-library、Library Genesis 和 Sci-Hub 三个全球数字图书馆的资源"
 
     [[list.sub.item]]
     siteName="Sci-Hub"
-    siteLink="https://sci-hub.st/"
+    siteLink="https://sci-hub.st"
     siteLogo="res/logos/sci-hub.ico"
     description="免费获取学术期刊"
 

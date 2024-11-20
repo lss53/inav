@@ -12,7 +12,7 @@ css = 'icon-attach'
     siteLogo="res/logos/hourly.png"
     description="每小时汇总更新的中国社交网络热点"
 
-    [[list.item]]
+    [[list.sub.item]]
     siteName="HelloGitHub"
     siteLink="https://hellogithub.com"
     siteLogo=""
@@ -867,7 +867,7 @@ css = 'icon-cog'
 tag = '在线工具'
 css = 'icon-cloud'
 
-    [[list.item]]
+    [[list.sub.item]]
     siteName="Markdown"
     siteLink="https://editor.mdnice.com/"
     siteLogo="https://editor.mdnice.com/favicon.svg"
@@ -972,13 +972,13 @@ css = 'icon-cd'
 tag = "更多导航"
 css = 'icon-database'
 
-    [[list.sub.item]]
+    [[list.item]]
     siteName="Via浏览器收藏合集"
     siteLink="https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md"
     siteLogo=""
     description="@半梦半醒"
 
-    [[list.sub.item]]
+    [[list.item]]
     siteName="dGitHub"
     siteLink="https://dgithub.xyz"
     siteLogo=""

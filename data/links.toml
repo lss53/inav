@@ -31,14 +31,14 @@ css = 'icon-shop'
     [[list.sub.item]]
     siteName="淘宝联盟"
     siteLink="https://pub.alimama.com"
-    siteLogo="https://pub.alimama.com/favicon.ico"
+    siteLogo=""
     description="阿里妈妈"
 
     [[list.sub.item]]
     siteName="京东联盟"
     siteLink="https://union.jd.com"
     siteLogo="https://www.jd.com/favicon.ico"
-    description="阿里妈妈"
+    description="京东"
 
     [[list.sub.item]]
     siteName="苏宁易购联盟"
@@ -50,7 +50,7 @@ css = 'icon-shop'
     siteName="唯品会联盟"
     siteLink="https://union.vip.com/index"
     siteLogo="https://a.appsimg.com/upload/actpics/cps/0/2024/02/26/161/c5aplcy6mgyiqb6_64x64_90.png!75.webp"
-    description="需要关闭广告插件"
+    description="关闭浏览器广告插件"
 
     [[list.sub.item]]
     siteName="美团千载"
@@ -69,7 +69,7 @@ tag = "工作"
 css = 'icon-money'
 
 [[list.sub]]
-tag = '教材和课标'
+tag = '教材课标'
 css = 'icon-attach'
 
     [[list.sub.item]]
@@ -123,12 +123,6 @@ css = 'icon-doc'
     siteLink="https://www.jkxjxw.com"
     siteLogo=""
     description="金太阳题库"
-
-    [[list.sub.item]]
-    siteName="51好课"
-    siteLink="http://www.51haoke.com"
-    siteLogo=""
-    description="重庆巴蜀中学初高中视频资源"
 
     [[list.sub.item]]
     siteName="福建高中生物QQ群资源"
@@ -818,7 +812,7 @@ css = 'icon-star'
     [[list.sub.item]]
     siteName="NameSilo"
     siteLink="https://www.namesilo.com/"
-    siteLogo="https://www.namesilo.com/favicon.ico"
+    siteLogo=""
     description="Cheap Domain Names & Web Hosting Starting"
 
     [[list.sub.item]]
@@ -835,14 +829,14 @@ css = 'icon-star'
 
     [[list.sub.item]]
     siteName="Favicon Generator"
-    siteLink="https://realfavicongenerator.net/"
+    siteLink="https://realfavicongenerator.net"
     siteLogo=""
     description="Favicon Generator for perfect icons on all browsers"
 
     [[list.sub.item]]
     siteName="Font Awesome"
-    siteLink="https://fontawesome.com/"
-    siteLogo="https://fontawesome.com/images/favicon/icon.svg"
+    siteLink="https://fontawesome.com"
+    siteLogo=""
     description="Font Awesome"
 
 [[list]]
@@ -897,7 +891,7 @@ css = 'icon-heart'
     [[list.item]]
     siteName="Copilot"
     siteLink="https://copilot.microsoft.com/"
-    siteLogo="https://copilot.microsoft.com/sa/simg/favicon-cplt.ico"
+    siteLogo=""
     description="Microsoft Copilot"
 
     [[list.item]]
@@ -998,3 +992,9 @@ css = 'icon-database'
     siteLink="https://space.bilibili.com/12890453"
     siteLogo="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg"
     description="全栈开发小哥，用编程做点有趣的事"
+
+    [[list.item]]
+    siteName="51好课"
+    siteLink="http://www.51haoke.com"
+    siteLogo=""
+    description="重庆巴蜀中学初高中视频资源"

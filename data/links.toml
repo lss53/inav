@@ -69,7 +69,7 @@ tag = "工作"
 css = 'icon-money'
 
 [[list.sub]]
-tag = '教材'
+tag = '教材和课标'
 css = 'icon-attach'
 
     [[list.sub.item]]
@@ -83,10 +83,6 @@ css = 'icon-attach'
     siteLink="https://basic.smartedu.cn"
     siteLogo="https://basic.smartedu.cn/favicon.ico"
     description="课程教学&教师研修"
-
-[[list.sub]]
-tag = '课标'
-css = 'icon-attach'
 
     [[list.sub.item]]
     siteName="义务教育（在线）"
@@ -113,24 +109,8 @@ css = 'icon-attach'
     description="普通高中课程方案和课程标准（2017年版2020年修订）"
 
 [[list.sub]]
-tag = '资源'
-css = 'icon-attach'
-
-    [[list.sub.item]]
-    siteName="51好课"
-    siteLink="http://www.51haoke.com/"
-    siteLogo=""
-    description="重庆巴蜀中学教师团队倾力打造"
-
-    [[list.sub.item]]
-    siteName="福建高中生物QQ群资源"
-    siteLink="https://share.feijipan.com/s/HQjdaFo"
-    siteLogo=""
-    description="@林颖韬"
-
-[[list.sub]]
-tag = '题库'
-css = 'icon-attach'
+tag = '题库等'
+css = 'icon-doc'
 
     [[list.sub.item]]
     siteName="组卷网-学科网"
@@ -143,6 +123,18 @@ css = 'icon-attach'
     siteLink="https://www.jkxjxw.com"
     siteLogo=""
     description="金太阳题库"
+
+    [[list.sub.item]]
+    siteName="51好课"
+    siteLink="http://www.51haoke.com"
+    siteLogo=""
+    description="重庆巴蜀中学初高中视频资源"
+
+    [[list.sub.item]]
+    siteName="福建高中生物QQ群资源"
+    siteLink="https://share.feijipan.com/s/HQjdaFo"
+    siteLogo=""
+    description="@林颖韬"
 
     [[list.sub.item]]
     siteName="菜鸟主老王"
@@ -171,6 +163,33 @@ css = 'icon-attach'
     siteLink="http://teacher.jsfz.cqedu.cn/login?Logout"
     siteLogo=""
     description="继续教育"
+[[list.sub]]
+tag = 'kindle'
+css = 'icon-note'
+
+    [[list.sub.item]]
+    siteName="Internet Archive"
+    siteLink="https://archive.org/"
+    siteLogo="res/logos/archive.ico"
+    description="互联网档案馆，注意单击和右键「顶部导航菜单栏」的区别"
+
+    [[list.sub.item]]
+    siteName="Anna’s Archive"
+    siteLink="https://annas-archive.org/"
+    siteLogo="res/logos/anna.png"
+    description="安娜的图书馆"
+
+    [[list.sub.item]]
+    siteName="Sci-Hub"
+    siteLink="https://sci-hub.st/"
+    siteLogo="res/logos/sci-hub.ico"
+    description="免费获取学术期刊"
+
+    [[list.sub.item]]
+    siteName="电脑书籍"
+    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL"
+    siteLogo=""
+    description="KEY：r48g"
 
 [[list]]
 tag = '学习'
@@ -323,7 +342,7 @@ css = 'icon-mobile'
     description="线性代数讲得贼明白"
 
 [[list.sub]]
-tag = '英语'
+tag = '英语和日语'
 css = 'icon-mobile'
 
     [[list.sub.item]]
@@ -361,10 +380,6 @@ css = 'icon-mobile'
     siteLink="https://space.bilibili.com/1788209292"
     siteLogo="https://i0.hdslb.com/bfs/face/79beab4ff83de7cb2d219e8a2a312ba056a59b6e.jpg"
     description="英语高分作文讲解"
-
-[[list.sub]]
-tag = '日语'
-css = 'icon-mobile'
 
     [[list.sub.item]]
     siteName="教日语的阿飞老师"
@@ -535,7 +550,7 @@ css = 'icon-mobile'
     description="动画生物"
 
 [[list.sub]]
-tag = '历史'
+tag = '历政地'
 css = 'icon-mobile'
 
     [[list.sub.item]]
@@ -549,10 +564,6 @@ css = 'icon-mobile'
     siteLink="https://space.bilibili.com/402847001"
     siteLogo="https://i2.hdslb.com/bfs/face/3ed6ae2fb44b45e8e70daacce5f8ed31663a4422.jpg"
     description="历政地，最懂差生的up，录着最适合差生的课"
-
-[[list.sub]]
-tag = '政治'
-css = 'icon-mobile'
 
     [[list.sub.item]]
     siteName="Koi大大"
@@ -571,10 +582,6 @@ css = 'icon-mobile'
     siteLink="https://space.bilibili.com/347401435"
     siteLogo="https://i1.hdslb.com/bfs/face/61802e078ab9d48a0f6b4740f8c292e565f91cd6.jpg"
     description="高中政治教师，佛系更新，不卖课也不卖课件。"
-
-[[list.sub]]
-tag = '地理'
-css = 'icon-mobile'
 
     [[list.sub.item]]
     siteName="地理安迎老师"
@@ -603,34 +610,6 @@ css = 'icon-mobile'
     siteLink="https://www.kkdaxue.com"
     siteLogo=""
     description="发现各专业前辈们的学习建议"
-
-[[list.sub]]
-tag = 'kindle'
-css = 'icon-note'
-
-    [[list.sub.item]]
-    siteName="Internet Archive"
-    siteLink="https://archive.org/"
-    siteLogo="res/logos/archive.ico"
-    description="互联网档案馆，注意单击和右键「顶部导航菜单栏」的区别"
-
-    [[list.sub.item]]
-    siteName="Anna’s Archive"
-    siteLink="https://annas-archive.org/"
-    siteLogo="res/logos/anna.png"
-    description="安娜的图书馆"
-
-    [[list.sub.item]]
-    siteName="Sci-Hub"
-    siteLink="https://sci-hub.st/"
-    siteLogo="res/logos/sci-hub.ico"
-    description="免费获取学术期刊"
-
-    [[list.sub.item]]
-    siteName="电脑书籍"
-    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL"
-    siteLogo=""
-    description="KEY：r48g"
 
 [[list]]
 tag = '软件'
@@ -753,6 +732,12 @@ css = 'icon-cog'
     siteLink="http://netfood.ysepan.com"
     siteLogo=""
     description="烈火群国宝2023"
+
+    [[list.sub.item]]
+    siteName="闻雷"
+    siteLink="http://wenlei.ysepan.com"
+    siteLogo=""
+    description="密码 wenlei.ysepan"
 
 [[list.sub]]
 tag = '在线工具'

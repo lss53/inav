@@ -8,13 +8,17 @@ comment: false
 
 1，确保QQNT是官网最新正版。官方下载[QQ Windows 版](https://im.qq.com/index)，双击安装，退出QQNT。
 
-2，下载、双击安装、运行 [install_windows](https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases) 程序
+2，下载[install_windows](https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases)，双击安装，让其自动完成，建议仔细阅读程序`终端`提示。
 
-3，下载最新的[插件包](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools/releases)，将插件文件夹放到你自己 LiteLoaderQQNT 路径下，我的是 D:\QQ\resources\app\LiteLoaderQQNT-main\plugins （供参考），插件安装完成，可以在QQNT设置中体验各种丰富的功能了！
+**提示**
 
-提示：如果QQNT客户端更新后，插件失灵，请及时更新插件包，重启QQNT后变成LiteLoaderQQNT版本，可以自由安装插件了。
+* LiteLoaderQQNT 数据目录是 `C:\Users\用户名\Documents\LiteloaderQQNT` .
 
-4，下载主题：[LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) ，将主题文件夹（还是老位置）放到 resources\app\LiteLoaderQQNT-main\plugins 目录下，主题安装完成，重启QQNT后，可以在QQNT设置中调整您喜欢的主题风格！
+* 插件路径是 `C:\Users\用户名\Documents\LiteloaderQQNT\plugins` .
+
+* 如果QQNT客户端更新后，插件失灵，请及时更新插件包，重启QQNT后变成LiteLoaderQQNT版本，可以自由安装插件了。
+
+3，登录QQ，三条短横线->设置->插件列表查看，安装需要的插件。
 
 ## QAuxiliary
 

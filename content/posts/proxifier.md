@@ -66,9 +66,10 @@ comment: false
 
 菜单栏`Profile`(配置文件)中的`Proxification Rules`(代理规则)，在弹出的 Proxification Rules 窗口中点`Add`(添加)，在弹出的`Proxification Rule`窗口中`Name`(名称)后面输入`Mangayomi`、`Applications`(应用程序)处点`Browse`(浏览)，选择应用程序`Mangayomi`的路径，`Action`(动作)处，选择`Proxy SOCKS5 127.0.0.1`，点OK。关闭窗口`Proxification Rules`。
 
-Profile汉化包等网盘下载
+Profile汉化包等网盘下载:
 
 https://wwqm.lanzouj.com/b00g2rh76h 密码:424v
+
 https://www.alipan.com/s/HgG5zdg1hyk
 
 

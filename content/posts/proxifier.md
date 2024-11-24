@@ -19,8 +19,7 @@ comment: false
 
 点`Enter Registration Key...`进入注册界面，`Your name or company name`(用户名)下面输入任意字符，`Your registration key`(注册码)下面输入`standard`(标准版)注册码，`Current user only`(当前用户)和`All users on this computer(require administrator)`(所有用户)按需选择，之后点击OK，出现：
 
-> Thank you for choosing Proxifier!
-> 
+> Thank you for choosing Proxifier!  
 > Program is successfully registered.
 
 表示注册成功，点`确定`。
@@ -31,30 +30,23 @@ comment: false
 
 点菜单栏`Profile`(配置文件)中的`Proxy Servers`(代理服务器)，在弹出的 Proxy Servers 窗口中点`Add`(添加)，在弹出的`Proxy Server`窗口中的服务器`Address`(地址)后面输入`127.0.0.1`(本地代理服务)、`Port`(端口)后面输入`代理服务器的端口`，`Protocol`(协议)选中`SOCKS Version 5`，点`Check`。
 
-> 问：代理服务器的端口在哪里找？
-> 
+> 问：代理服务器的端口在哪里找？  
 > 答：打开代理软件v2rayN，左下角找到`本地:[socks:10808]| [http:10809]`，`10808`就是端口。
 
 弹窗 Proxy Checker 中出现：`Test passed`(测试已通过) 和 `Proxy is ready to work with Proxifier!`(代理可以在 Proxifer 中工作!)，表示代理可用，点OK。
 
 在弹窗 Proxy Server 中点 OK。出现 `Proxifier` 选择窗口，提示如下：
 
-> Do you want Proxifier to use this proxy by default?
-> 
-> 您希望 Proxifier 默认使用该代理吗？
-> 
-> You can change this later at Profile->Proxification Rules
-> 
+> Do you want Proxifier to use this proxy by default?  
+> 您希望 Proxifier 默认使用该代理吗？  
+> You can change this later at Profile->Proxification Rules  
 > 您可以稍后在`配置文件`->`代理规则`中进行更改。
 
 选择`否`，再点 OK ，出现 `Proxifier` 选择窗口，提示如下：
 
-> You do not have any proxy servers enabled in Profile->Proxification Rules.
-> 
-> 您没有在`配置文件`->`代理规则`中启用任何代理服务器。
-> 
-> Do you want to edit Proxifcation Rules now?
-> 
+> You do not have any proxy servers enabled in Profile->Proxification Rules.  
+> 您没有在`配置文件`->`代理规则`中启用任何代理服务器。  
+> Do you want to edit Proxifcation Rules now?  
 > 现在要编辑`代理规则`吗？
 
 选择`否`。
@@ -68,8 +60,7 @@ comment: false
 
 Profile汉化包等网盘下载:
 
-https://wwqm.lanzouj.com/b00g2rh76h 密码:424v
-
+https://wwqm.lanzouj.com/b00g2rh76h 密码:424v  
 https://www.alipan.com/s/HgG5zdg1hyk
 
 

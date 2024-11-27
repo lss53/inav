@@ -30,7 +30,9 @@ comment: false
 
 OPatch 和 QAuxiliary 等下载地址(无需和谐上网)：[https://484644.1314920.us.kg](https://484644.1314920.us.kg)
 
+## apphot.cc
 
+https://www.123pan.com/s/b6cA-wUxpA.html  
 
 
 

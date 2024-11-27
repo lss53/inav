@@ -711,6 +711,12 @@ css = 'icon-cog'
     description="免费下载绿色软件APP 无会员 不收费"
 
     [[list.sub.item]]
+    siteName="W 汉化作品"
+    siteLink="http://shui2012.ysepan.com"
+    siteLogo=""
+    description="Office C2R Install"
+
+    [[list.sub.item]]
     siteName="绿软集合"
     siteLink="https://www.greensoftwarehub.com"
     siteLogo=""

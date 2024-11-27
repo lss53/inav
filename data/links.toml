@@ -131,10 +131,10 @@ css = 'icon-doc'
     description="@林颖韬"
 
     [[list.sub.item]]
-    siteName="菜鸟主老王"
-    siteLink="https://space.bilibili.com/15929124"
-    siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
-    description="EduEditer，教学文档和课件编排软件"
+    siteName="51好课"
+    siteLink="http://www.51haoke.com"
+    siteLogo=""
+    description="重庆巴蜀中学初高中视频资源"
 
 [[list.sub]]
 tag = '继续教育'
@@ -711,6 +711,18 @@ css = 'icon-cog'
     description="免费下载绿色软件APP 无会员 不收费"
 
     [[list.sub.item]]
+    siteName="绿软集合"
+    siteLink="https://www.greensoftwarehub.com"
+    siteLogo=""
+    description="一个绿色、纯净的常用软件工具箱"
+
+    [[list.sub.item]]
+    siteName="Via浏览器收藏合集"
+    siteLink="https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md"
+    siteLogo=""
+    description="@半梦半醒"
+
+    [[list.sub.item]]
     siteName="QQ"
     siteLink="https://www.123pan.com/s/b6cA-wUxpA.html"
     siteLogo=""
@@ -737,6 +749,18 @@ css = 'icon-cog'
 [[list.sub]]
 tag = '在线工具'
 css = 'icon-cloud'
+
+    [[list.sub.item]]
+    siteName="dGitHub"
+    siteLink="https://dgithub.xyz"
+    siteLogo=""
+    description="GitHub镜像代理"
+
+    [[list.sub.item]]
+    siteName="默沙东诊疗手册"
+    siteLink="https://www.msdmanuals.cn/"
+    siteLogo=""
+    description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
 
     [[list.sub.item]]
     siteName="Markdown"
@@ -773,7 +797,6 @@ css = 'icon-cloud'
     siteLink="https://testufo.com"
     siteLogo=""
     description="UFO Test"
-
 
 [[list.sub]]
 tag = '站长工具'
@@ -964,24 +987,6 @@ tag = "更多导航"
 css = 'icon-database'
 
     [[list.item]]
-    siteName="Via浏览器收藏合集"
-    siteLink="https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md"
-    siteLogo=""
-    description="@半梦半醒"
-
-    [[list.item]]
-    siteName="dGitHub"
-    siteLink="https://dgithub.xyz"
-    siteLogo=""
-    description="GitHub镜像代理"
-
-    [[list.item]]
-    siteName="默沙东诊疗手册"
-    siteLink="https://www.msdmanuals.cn/"
-    siteLogo=""
-    description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
-
-    [[list.item]]
     siteName="天冬Asp"
     siteLink="https://space.bilibili.com/338235854"
     siteLogo="https://i2.hdslb.com/bfs/face/36d5c5227f1c9618ed4fef80ce175cb3f2ab4d56.jpg"
@@ -994,7 +999,7 @@ css = 'icon-database'
     description="全栈开发小哥，用编程做点有趣的事"
 
     [[list.item]]
-    siteName="51好课"
-    siteLink="http://www.51haoke.com"
-    siteLogo=""
-    description="重庆巴蜀中学初高中视频资源"
+    siteName="菜鸟主老王"
+    siteLink="https://space.bilibili.com/15929124"
+    siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
+    description="EduEditer，教学文档和课件编排软件"

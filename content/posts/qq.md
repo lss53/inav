@@ -1,5 +1,5 @@
 ---
-title: "LiteLoaderQQNT & QAuxiliary"
+title: "QQNT + LiteLoaderQQNT + QAuxiliary"
 date: 2024-10-18T09:22:15+0800
 comment: false
 ---

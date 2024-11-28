@@ -64,6 +64,13 @@ css = 'icon-shop'
     siteLogo="https://lf1-fe.ecombdstatic.com/obj/eden-cn/upelogps/bitbug_favicon.ico"
     description="抖音"
 
+    [[list.sub.item]]
+    siteName="ceshi"
+    siteLink="posts/bilibili-up.md"
+    siteLogo=""
+    description="test"
+
+
 [[list]]
 tag = "工作"
 css = 'icon-money'

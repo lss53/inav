@@ -59,6 +59,10 @@ https://github.com/zhongfly/blog/issues/11
 毛子的软件激活工具、补丁网站  
 https://cracksurl.com  
 
+### Sordum
+近百个 Windows 系统优化小工具，如Windows Update Blocker、Defender Control 等  
+https://www.sordum.org
+
 ### 数字人民币
 
 423down平替，免费下载绿色软件APP，无会员、不收费  

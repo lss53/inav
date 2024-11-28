@@ -11,9 +11,9 @@ comment: false
 Free Software Download  
 https://downloadlynet.ir  
 
-### LREPACKS
+### LRepacks
 
-毛子重新打包的一些电脑软件，基本不用后续替换文件之类的，可以傻瓜式操作，运行exe可以选择安装或解压为便携版。  
+毛子重新打包的电脑软件，repack.me 已经停止注册  
 https://lrepacks.net  
 
 ### m0nkrus
@@ -23,7 +23,7 @@ https://w14.monkrus.ws
 
 ### CyberMania
 
-软件汇总，一般提供原破姐版网页地址  
+一般提供原破姐版网页地址  
 https://www.cybermania.ws  
 
 ### RuTracker
@@ -33,7 +33,7 @@ https://rutracker.org
 
 ### Nsane
 
-提供各种软件破姐补丁的网站  
+提供各种软件破姐补丁的网站，账号需每年登录一次  
 https://nsaneforums.com  
 
 ### SoftArchive
@@ -48,13 +48,16 @@ https://en.taiwebs.com
 
 ### 4PDA
 
-毛子论坛，扫描  
+毛子论坛，如 CamScanner  
 https://4pda.to/forum  
 
-### REPACK
+注册和登录需要输入，俄文数字验证码  
+https://github.com/zhongfly/blog/issues/11  
 
-毛子站长 KpoJIuK 涉猎广泛，应该是各大破姐资源站的最上游供货商，目前以网友捐助的方式进行盈利，免费注册看不到资源下载，需要捐助激活账户  
-https://repack.me  
+### CRACKSurl
+
+毛子的软件激活工具、补丁网站  
+https://cracksurl.com  
 
 ### 数字人民币
 

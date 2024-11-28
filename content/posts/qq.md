@@ -4,7 +4,7 @@ date: 2024-10-18T09:22:15+0800
 comment: false
 ---
 
-## LiteLoaderQQNT
+### LiteLoaderQQNT
 
 1，确保QQNT是官网最新正版。官方下载[QQ Windows 版](https://im.qq.com/index)，双击安装，退出QQNT。
 
@@ -20,7 +20,7 @@ comment: false
 
 3，登录QQ，三条短横线->设置->插件列表查看，安装需要的插件。
 
-## QAuxiliary
+### QAuxiliary
 
 1，下载 [QQ Android 版](https://im.qq.com/index)、[QAuxiliary](https://github.com/cinit/QAuxiliary)、[opatch](https://t.me/QToolCI/268)(需和谐上网) 或者 [ONPatch](https://t.me/NPatch/159)(需和谐上网) 到 0/Download ，双击安装 opatch 。
 
@@ -30,11 +30,10 @@ comment: false
 
 OPatch 和 QAuxiliary 等下载地址(无需和谐上网)：[https://484644.1314920.us.kg](https://484644.1314920.us.kg)
 
-## apphot.cc
+### apphot.cc
 
-https://www.123pan.com/s/b6cA-wUxpA.html  
-
-
+QQ  
+https://www.123pan.com/s/b6cA-wUxpA.html
 
 
 

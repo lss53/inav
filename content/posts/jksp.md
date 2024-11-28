@@ -4,6 +4,7 @@ date: 2024-05-27T09:14:55+0800
 comment: false
 ---
 
+温馨提示：正确打开方式是，链接→右键→在新标签页中打开链接，以免迷路！
 
 ## 语文
 
@@ -55,6 +56,7 @@ https://space.bilibili.com/1429201958
 ## 数学
 
 ### 一数
+
 极其适合数学基础需要巩固的同学  
 https://space.bilibili.com/14229967  
 
@@ -74,6 +76,7 @@ https://space.bilibili.com/98211484
 https://space.bilibili.com/363308722  
 
 ### 夏老师的数学课
+
 nb  
 https://space.bilibili.com/379516008  
 
@@ -89,6 +92,7 @@ https://space.bilibili.com/68554357
 
 
 ### 马老师的观点
+
 持续更新《高考必刷题》视频讲解、《新高考精准模拟》视频讲解，资源群拥有网络上能找到的几乎所有卷子，风趣幽默！  
 https://space.bilibili.com/88820221  
 
@@ -103,6 +107,7 @@ https://space.bilibili.com/1956704656
 https://space.bilibili.com/1893613490  
 
 ### 赵礼显老师
+
 数学，付费系统课（选适合自己的听）  
 https://space.bilibili.com/488738478  
 
@@ -135,18 +140,21 @@ https://space.bilibili.com/388576777
 
 ### FREE高考英语
 
-从阅读理解角度切入英语，不死磕词汇；全年保姆级带你上分；在这学到的不仅仅是英语!
+从阅读理解角度切入英语，不死磕词汇；全年保姆级带你上分；在这学到的不仅仅是英语!  
 https://space.bilibili.com/2742391  
 
 ### 一英儿
+
 一数旗下，质量较高  
 https://space.bilibili.com/632207543  
 
 ### 牛油果味牛排咦
+
 阅读从思路方面切入，视频较短  
 https://space.bilibili.com/351383494  
 
 ### 杭州Looming老师
+
 英语高分作文讲解  
 https://space.bilibili.com/1788209292  
 
@@ -239,10 +247,12 @@ https://space.bilibili.com/513813254
 https://space.bilibili.com/1498318933  
 
 ### 酒吧舞化学人
+
 试卷讲评&资料分享  
 https://space.bilibili.com/394995667  
 
 ### 化学教员张子涵"
+
 化学思维培养讲题  
 https://space.bilibili.com/407270850  
 
@@ -325,13 +335,8 @@ https://space.bilibili.com/492547140
 https://space.bilibili.com/443846149
 
 
-## 志愿
+## 51好课(全科)
 
-### 取景框看世界
+重庆巴蜀中学初高中视频资源  
+http://www.51haoke.com  
 
-你的B站大学辅导员，志愿填报  
-https://space.bilibili.com/40427625  
-
-### 框框大学
-发现各专业前辈们的学习建议  
-https://www.kkdaxue.com  

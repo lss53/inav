@@ -18,6 +18,5 @@ comment: false
 
 网盘下载（APKPure + Aptoide // 去广告修改版）
 
-https://lanzoui.com/b04akc9ri 密码:1ve0
-
-https://pan.baidu.com/s/1X01EHZY_lqs0LKB0-K1x3Q 提取码：hhhh
+https://lanzoui.com/b04akc9ri#1ve0  
+https://pan.baidu.com/s/1X01EHZY_lqs0LKB0-K1x3Q?pwd=hhhh

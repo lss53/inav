@@ -5,6 +5,12 @@ css = 'icon-lightbulb'
 [[list.sub]]
 tag = '信息'
 css = 'icon-attach'
+    
+    [[list.sub.item]]
+    siteName="默沙东诊疗手册"
+    siteLink="https://www.msdmanuals.cn"
+    siteLogo=""
+    description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
 
     [[list.sub.item]]
     siteName="Hotspot Hourly"
@@ -64,947 +70,34 @@ css = 'icon-shop'
     siteLogo="https://lf1-fe.ecombdstatic.com/obj/eden-cn/upelogps/bitbug_favicon.ico"
     description="抖音"
 
-    [[list.sub.item]]
-    siteName="ceshi"
-    siteLink="posts/bilibili-up.md"
-    siteLogo=""
-    description="test"
-
-
-[[list]]
-tag = "工作"
-css = 'icon-money'
-
-[[list.sub]]
-tag = '教材课标'
-css = 'icon-attach'
-
-    [[list.sub.item]]
-    siteName="中小学教材电子版"
-    siteLink="https://jc.pep.com.cn"
-    siteLogo=""
-    description="最新版"
-
-    [[list.sub.item]]
-    siteName="国家中小学智慧教育平台"
-    siteLink="https://basic.smartedu.cn"
-    siteLogo="https://basic.smartedu.cn/favicon.ico"
-    description="课程教学&教师研修"
-
-    [[list.sub.item]]
-    siteName="义务教育（在线）"
-    siteLink="https://www.pep.com.cn/xw/zt/rjwy/yjkb2022"
-    siteLogo=""
-    description="义务教育课程方案和课程标准（2022年版）"
-
-    [[list.sub.item]]
-    siteName="义务教育（离线）"
-    siteLink="https://www.gov.cn/zhengce/zhengceku/2022-04/21/content_5686535.htm"
-    siteLogo=""
-    description="义务教育课程方案和课程标准（2022年版）"
-
-    [[list.sub.item]]
-    siteName="普通高中（在线）"
-    siteLink="https://www.pep.com.cn/xw/zt/rjwy/gzkb2020"
-    siteLogo=""
-    description="普通高中课程方案和课程标准（2017年版2020年修订）"
-
-    [[list.sub.item]]
-    siteName="普通高中（离线）"
-    siteLink="http://www.moe.gov.cn/srcsite/A26/s8001/202006/t20200603_462199.html"
-    siteLogo=""
-    description="普通高中课程方案和课程标准（2017年版2020年修订）"
-
-[[list.sub]]
-tag = '题库资源'
-css = 'icon-doc'
-
-    [[list.sub.item]]
-    siteName="组卷网-学科网"
-    siteLink="https://zujuan.xkw.com"
-    siteLogo="https://static.zxxk.com/zujuan/zjms/static/assets/touxiang.png"
-    description="中小学全科智能题库"
-
-    [[list.sub.item]]
-    siteName="九科星"
-    siteLink="https://www.jkxjxw.com"
-    siteLogo=""
-    description="金太阳题库"
-
-    [[list.sub.item]]
-    siteName="福建高中生物QQ群资源"
-    siteLink="https://share.feijipan.com/s/HQjdaFo"
-    siteLogo=""
-    description="@林颖韬"
-
-    [[list.sub.item]]
-    siteName="51好课"
-    siteLink="http://www.51haoke.com"
-    siteLogo=""
-    description="重庆巴蜀中学初高中视频资源"
-
-[[list.sub]]
-tag = '继续教育'
-css = 'icon-attach'
-
-    [[list.sub.item]]
-    siteName="山东省教师教育网"
-    siteLink="https://www.qlteacher.com/"
-    siteLogo="https://www.qlteacher.com/favicon.ico"
-    description="继教学分"
-
-    [[list.sub.item]]
-    siteName="重庆人社培训网"
-    siteLink="https://www.cqrspx.cn/"
-    siteLogo=""
-    description="公需科目"
-
-    [[list.sub.item]]
-    siteName="重庆市中小学教师培训学分信息管理系统"
-    siteLink="http://teacher.jsfz.cqedu.cn/login?Logout"
-    siteLogo=""
-    description="继教登分"
-
-[[list.sub]]
-tag = '图书馆'
-css = 'icon-note'
-
-    [[list.sub.item]]
-    siteName="Internet Archive"
-    siteLink="https://archive.org/"
-    siteLogo="res/logos/archive.ico"
-    description="互联网档案馆，注意单击和右键「顶部导航菜单栏」的区别"
-
-    [[list.sub.item]]
-    siteName="Anna’s Archive"
-    siteLink="https://annas-archive.org"
-    siteLogo="res/logos/anna.png"
-    description="包括 Z-library、Library Genesis 和 Sci-Hub 三个全球数字图书馆的资源"
-
-    [[list.sub.item]]
-    siteName="Sci-Hub"
-    siteLink="https://sci-hub.st"
-    siteLogo="res/logos/sci-hub.ico"
-    description="免费获取学术期刊"
-
-    [[list.sub.item]]
-    siteName="电脑书籍"
-    siteLink="https://www.aliyundrive.com/s/UAhNX5frTEL"
-    siteLogo=""
-    description="KEY：r48g"
-
 [[list]]
 tag = '学习'
 css = 'icon-graduation-cap'
 
-[[list.sub]]
-tag = '语文'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="学过石油的语文老师（奇哥）"
-    siteLink="https://space.bilibili.com/39737405"
-    siteLogo="https://i2.hdslb.com/bfs/face/fce5a10be530b829da3c20b5caeea7fdbe6a1068.jpg"
-    description="B站百大，人尽皆知，不多赘述"
-
-    [[list.sub.item]]
-    siteName="国家玮-开明致学"
-    siteLink="https://space.bilibili.com/485578465"
-    siteLogo="https://i1.hdslb.com/bfs/face/6913c82d0900810cb670cfcf686c7c34f26caa3f.jpg"
-    description="语文，系统课不免费"
-
-    [[list.sub.item]]
-    siteName="中文系五匪子"
-    siteLink="https://space.bilibili.com/7920565"
-    siteLogo="https://i1.hdslb.com/bfs/face/73b1f61fade50a390cd268098f189f1f543dcd1b.jpg"
-    description="语文140朋克老姐"
-
-    [[list.sub.item]]
-    siteName="春次是模板小砖家"
-    siteLink="https://space.bilibili.com/1667838104"
-    siteLogo="https://i2.hdslb.com/bfs/face/d258b65a77c0bfd0dbfc94df93791bcdae724371.jpg"
-    description="主攻作文模板，提高作文文采、思辨性，无脑上50+"  
-
-    [[list.sub.item]]
-    siteName="OK语文"
-    siteLink="https://space.bilibili.com/3493281113573620"
-    siteLogo="https://i1.hdslb.com/bfs/face/0f60972d7a1cda9770982ede68758b8de31c084d.jpg"
-    description="百万UP主，与奇哥一样更新免费系统课"
-
-    [[list.sub.item]]
-    siteName="语文作文菌"
-    siteLink="https://space.bilibili.com/505935166"
-    siteLogo="https://i1.hdslb.com/bfs/face/21630323977e1763c29794aabf9a808d0184195a.jpg"
-    description="高分作文学习鉴赏"
-
-    [[list.sub.item]]
-    siteName="逻辑笑语文"
-    siteLink="https://space.bilibili.com/87931987"
-    siteLogo="https://i1.hdslb.com/bfs/face/eebb58f86622ff184262c17d07a15b1b62a3a043.jpg"
-    description="小众免费系统课"
-
-    [[list.sub.item]]
-    siteName="教语文的杨哥"
-    siteLink="https://space.bilibili.com/3493281476381416"
-    siteLogo="https://i1.hdslb.com/bfs/face/8df8062779f616e993b2aca7fcd26bc3e7f904e1.jpg"
-    description="系统课不免费"
-
-    [[list.sub.item]]
-    siteName="陈焕文-理性语文陈sir"
-    siteLink="https://space.bilibili.com/1429201958"
-    siteLogo="https://i2.hdslb.com/bfs/face/f8c29e3137039d6b80542698bc1c98e1bfeaa8e2.jpg"
-    description="作文&套卷"
-
-[[list.sub]]
-tag = '数学'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="一数"
-    siteLink="https://space.bilibili.com/14229967"
-    siteLogo="https://i1.hdslb.com/bfs/face/812281bada7d323c23c6e1e2e92749bd29b7d7c6.jpg"
-    description="极其适合数学基础需要巩固的同学"
-
-    [[list.sub.item]]
-    siteName="ToMath小火车"
-    siteLink="https://space.bilibili.com/2918884"
-    siteLogo="https://i1.hdslb.com/bfs/face/49c1c9774588cdd8b521f887e7fc938c46d713bf.jpg"
-    description="数学老师的语文123"
-
-    [[list.sub.item]]
-    siteName="无巧不成数"
-    siteLink="https://space.bilibili.com/98211484"
-    siteLogo="https://i1.hdslb.com/bfs/face/7a0009e5487bcf270cc0aed2ca7e9bb569591668.jpg"
-    description="讲得通透"
-
-    [[list.sub.item]]
-    siteName="differ飘零"
-    siteLink="https://space.bilibili.com/363308722"
-    siteLogo="https://i1.hdslb.com/bfs/face/96ee0cd08cbaf00b2e42db94c13cf66d9a216c04.jpg"
-    description="数学，成分杂，但很好"
-
-    [[list.sub.item]]
-    siteName="夏老师的数学课"
-    siteLink="https://space.bilibili.com/379516008"
-    siteLogo="https://i0.hdslb.com/bfs/face/9af280580814e4cded0dcf78b0b681642035ef0b.jpg"
-    description="nb"
-    [[list.sub.item]]
-
-    siteName="北大数学胡源老师"
-    siteLink="https://space.bilibili.com/3546705530194223"
-    siteLogo="https://i2.hdslb.com/bfs/face/4f08e4f9870b87bf193f3b43a98f18c0e4c0b2bf.jpg"
-    description="不讲废话，只教干货"
-
-    [[list.sub.item]]
-    siteName="Heshawn高中数学何帅"
-    siteLink="https://space.bilibili.com/68554357"
-    siteLogo="https://i1.hdslb.com/bfs/face/475e2ab949a0f426c12eef581892ae11c3b4f38a.jpg"
-    description="获取高考信息差，仅看视频即可!"
-
-    [[list.sub.item]]
-    siteName="马老师的观点"
-    siteLink="https://space.bilibili.com/88820221"
-    siteLogo="https://i1.hdslb.com/bfs/face/36288695eb263f09311021b5b267eb9a5977a0e9.jpg"
-    description="持续更新《高考必刷题》视频讲解、《新高考精准模拟》视频讲解，资源群拥有网络上能找到的几乎所有卷子，风趣幽默！"
-
-    [[list.sub.item]]
-    siteName="橘子zhen好吃"
-    siteLink="https://space.bilibili.com/1956704656"
-    siteLogo="https://i1.hdslb.com/bfs/face/ced5cbcb91877f9d9b23830f24de835c670414af.jpg"
-    description="攻破解析几何、导数、概率等压轴"
-
-    [[list.sub.item]]
-    siteName="阿不高中数学"
-    siteLink="https://space.bilibili.com/1893613490"
-    siteLogo="https://i2.hdslb.com/bfs/face/d612a3faa4b7fe6d21f29143b75beba5a375bb96.jpg"
-    description="刷题、知识点都有"
-
-    [[list.sub.item]]
-    siteName="赵礼显老师"
-    siteLink="https://space.bilibili.com/488738478"
-    siteLogo="https://i0.hdslb.com/bfs/face/10268384ec0466c132350d0d402a6ceb0660d6d2.jpg"
-    description="数学，付费系统课（选适合自己的听）"
-
-    [[list.sub.item]]
-    siteName="佟大大还是ETT"
-    siteLink="https://space.bilibili.com/123321175"
-    siteLogo="https://i1.hdslb.com/bfs/face/fb06b9913b696bd5989b6e393c654083bae1ef07.jpg"
-    description="数学，停更了"
-
-    [[list.sub.item]]
-    siteName="会放羊的教书匠"
-    siteLink="https://space.bilibili.com/44980991"
-    siteLogo="https://i2.hdslb.com/bfs/face/200dad9072cb5efecb4c42ee54e7c15a1d90f08c.jpg"
-    description="华罗庚杯优秀教练员"
-
-    [[list.sub.item]]
-    siteName="宋浩老师官方"
-    siteLink="https://space.bilibili.com/66607740"
-    siteLogo="https://i0.hdslb.com/bfs/face/743137ec91e924bf404f321fb5eeb8214627f759.jpg"
-    description="线性代数讲得贼明白"
-
-[[list.sub]]
-tag = '英语和日语'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="英语兔"
-    siteLink="https://space.bilibili.com/483162496"
-    siteLogo="https://i1.hdslb.com/bfs/face/3b7210faae45d9a21c25299f49f1eaa6695fb8da.jpg"
-    description="啥都有"
-
-    [[list.sub.item]]
-    siteName="英语的平行世界"
-    siteLink="https://space.bilibili.com/388576777"
-    siteLogo="https://i1.hdslb.com/bfs/face/e71e914701dfba8cda05340a177e50bec9d37db9.jpg"
-    description="英语的知识覆盖面全"
-
-    [[list.sub.item]]
-    siteName="FREE高考英语"
-    siteLink="https://space.bilibili.com/2742391"
-    siteLogo="https://i1.hdslb.com/bfs/face/2081199a93e69d154047712d68a6fc2a6391a311.jpg"
-    description="从阅读理解角度切入英语，不死磕词汇；全年保姆级带你上分；在这学到的不仅仅是英语!"
-
-    [[list.sub.item]]
-    siteName="一英儿"
-    siteLink="https://space.bilibili.com/632207543"
-    siteLogo="https://i2.hdslb.com/bfs/face/08d600bdd368c4e0e88441d1a9f560a02233c209.jpg"
-    description="一数旗下，质量较高"
-
-    [[list.sub.item]]
-    siteName="牛油果味牛排咦"
-    siteLink="https://space.bilibili.com/351383494"
-    siteLogo="https://i1.hdslb.com/bfs/face/97fc8d2589fa91a4337750a3786a4444b7ebfe3f.jpg"
-    description="阅读从思路方面切入，视频较短"
-
-    [[list.sub.item]]
-    siteName="杭州Looming老师"
-    siteLink="https://space.bilibili.com/1788209292"
-    siteLogo="https://i0.hdslb.com/bfs/face/79beab4ff83de7cb2d219e8a2a312ba056a59b6e.jpg"
-    description="英语高分作文讲解"
-
-    [[list.sub.item]]
-    siteName="教日语的阿飞老师"
-    siteLink="https://space.bilibili.com/383433896"
-    siteLogo="https://i2.hdslb.com/bfs/face/174d2af1489627abd5416ba38467506a1d37c75a.jpg"
-    description="5岁开始留学日本"
-
-    [[list.sub.item]]
-    siteName="日语提分大师24個老李"
-    siteLink="https://space.bilibili.com/10886303"
-    siteLogo="https://i2.hdslb.com/bfs/face/56e5a81920c9fc02eb4be1c06619096ff8a7adf8.jpg"
-    description="【日语高考】十年一线日语教育提分经验"
-
-[[list.sub]]
-tag = '物理'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="HuangFuRen"
-    siteLink="https://space.bilibili.com/23630128"
-    siteLogo="https://i1.hdslb.com/bfs/face/ee9f604b328f538da350b939e41c80b6240ff1ec.png"
-    description="黄夫人物理，打牢基础很重要"
-
-    [[list.sub.item]]
-    siteName="一物理儿"
-    siteLink="https://space.bilibili.com/1881916943"
-    siteLogo="https://i2.hdslb.com/bfs/face/22f20f258fab0691ab3a51cad383047dc10a36d4.jpg"
-    description="一数旗下，学物理得有冲动、恒心与毅力"
-
-    [[list.sub.item]]
-    siteName="赵玉峰大物理"
-    siteLink="https://space.bilibili.com/383098482"
-    siteLogo="https://i0.hdslb.com/bfs/face/2026f6613863fc08f5dc3c2288a7d0fcaece6778.jpg"
-    description="题型+重难点攻破"
-
-    [[list.sub.item]]
-    siteName="物理界最好的段子手"
-    siteLink="https://space.bilibili.com/323593541"
-    siteLogo="https://i2.hdslb.com/bfs/face/b231830c01cd818a203a139e2226481fbaf5758d.jpg"
-    description="考前大数据押题，课本回归"
-
-    [[list.sub.item]]
-    siteName="北大学长跳跳"
-    siteLink="https://space.bilibili.com/439177375"
-    siteLogo="https://i1.hdslb.com/bfs/face/5ad3bde0d2069d7d2429fd0554153828ed7238e1.jpg"
-    description="免费系统课，选适合自己的听"
-
-    [[list.sub.item]]
-    siteName="夏梦迪-高考物理"
-    siteLink="https://space.bilibili.com/53265107"
-    siteLogo="https://i2.hdslb.com/bfs/face/90777fcfddb89da8d9a0356025a629b1277b4959.jpg"
-    description="前新东方高管、功勋教师、培训师，讲授高中物理16年"
-
-    [[list.sub.item]]
-    siteName="晴姐有美有物理"
-    siteLink="https://space.bilibili.com/3546721388857977"
-    siteLogo="https://i0.hdslb.com/bfs/face/4fa29cc5c95d98284d79977dc5678da4d225c336.jpg"
-    description="晴姐，也是你亲姐"
-
-    [[list.sub.item]]
-    siteName="于总CEO"
-    siteLink="https://space.bilibili.com/328350981"
-    siteLogo="https://i0.hdslb.com/bfs/face/91b2a73901f7e92e024a204fafa171db8c3db5c7.jpg"
-    description="初中物理"
-
-[[list.sub]]
-tag = '化学'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="化学老师李政"
-    siteLink="https://space.bilibili.com/476738879"
-    siteLogo="https://i2.hdslb.com/bfs/face/d723c43d92a9bdb852e4d454d2640ce712320165.jpg"
-    description="公认的真神"
-
-    [[list.sub.item]]
-    siteName="一化儿"
-    siteLink="https://space.bilibili.com/1526560679"
-    siteLogo="https://i2.hdslb.com/bfs/face/f7dd769022b6a0326bd88d8ce3f6bab654bd1255.jpg"
-    description="质量标杆，基础救星"
-
-    [[list.sub.item]]
-    siteName="agening化学"
-    siteLink="https://space.bilibili.com/70605667"
-    siteLogo="https://i1.hdslb.com/bfs/face/f2cd000b8497b89f12064672456a3e7395de7d92.jpg"
-    description="卷子、题型讲解"
-
-    [[list.sub.item]]
-    siteName="化学超人"
-    siteLink="https://space.bilibili.com/416601949"
-    siteLogo="https://i1.hdslb.com/bfs/face/bb964fd20a12e4dc36951262f591651436e96cbf.jpg"
-    description="高中化学"
-
-    [[list.sub.item]]
-    siteName="陆艳华老师"
-    siteLink="https://space.bilibili.com/513813254"
-    siteLogo="https://i2.hdslb.com/bfs/face/c516595c9eb5f69f544252d1ef6c6126efa046ce.jpg"
-    description="高中化学"
-
-    [[list.sub.item]]
-    siteName="桃子姐姐化学课"
-    siteLink="https://space.bilibili.com/1498318933"
-    siteLogo="https://i1.hdslb.com/bfs/face/853cea86dd91dd1838f4d88a83c460394d3ce420.jpg"
-    description="重难点攻破，知识点记忆技巧，题型攻破。强烈推荐！"
-
-    [[list.sub.item]]
-    siteName="酒吧舞化学人"
-    siteLink="https://space.bilibili.com/394995667"
-    siteLogo="https://i1.hdslb.com/bfs/face/76c72d68da8880000ec496677fa24e641472e583.jpg"
-    description="试卷讲评&资料分享"
-
-    [[list.sub.item]]
-    siteName="化学教员张子涵"
-    siteLink="https://space.bilibili.com/407270850"
-    siteLogo="https://i0.hdslb.com/bfs/face/6f466a4919b7f65401c298f1a74d7249bb43f3a0.jpg"
-    description="化学思维培养讲题"
-
-    [[list.sub.item]]
-    siteName="化化学院老凡"
-    siteLink="https://space.bilibili.com/612929803"
-    siteLogo="https://i1.hdslb.com/bfs/face/aeedddbc0891400da09e2000690f885ca82939db.jpg"
-    description="素养提高"
-
-    [[list.sub.item]]
-    siteName="化学玉"
-    siteLink="https://space.bilibili.com/396025614"
-    siteLogo="https://i0.hdslb.com/bfs/face/4711743839ca42ff149544d6ed3108d574bc2c34.jpg"
-    description="学晶胞时候过来看下动画"
-
-[[list.sub]]
-tag = '生物'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="一生儿"
-    siteLink="https://space.bilibili.com/2036187097"
-    siteLogo="https://i1.hdslb.com/bfs/face/46ddec75dcd3040ab1b170c54c4d2e8bab091995.jpg"
-    description="高中生物，质量标杆，免费系统课"
-
-    [[list.sub.item]]
-    siteName="汉水丑生侯伟"
-    siteLink="https://space.bilibili.com/519546088"
-    siteLogo="https://i1.hdslb.com/bfs/face/842222b4aea85f5b60615fad08652cc675ffcc4c.jpg"
-    description="高中生物"
-
-    [[list.sub.item]]
-    siteName="李林生物"
-    siteLink="https://space.bilibili.com/229823308"
-    siteLogo="https://i1.hdslb.com/bfs/face/58e25762106ecfe1a599e54c271eed8d48541763.jpg"
-    description="高中生物，强推《李林生物笔记》"
-
-    [[list.sub.item]]
-    siteName="学生物真有范"
-    siteLink="https://space.bilibili.com/1544790706"
-    siteLogo="https://i1.hdslb.com/bfs/face/3d59a80a04405114e86533d946e5268b85eaac75.jpg"
-    description="新课&一轮免费，课件付费"
-
-    [[list.sub.item]]
-    siteName="生物错题本"
-    siteLink="https://space.bilibili.com/278461350"
-    siteLogo="https://i0.hdslb.com/bfs/face/6476561f881f8b71aa335c07cbb75b71d38fbabd.jpg"
-    description="卷子讲评、专题讲解"
-
-    [[list.sub.item]]
-    siteName="见医知二"
-    siteLink="https://space.bilibili.com/1842737120"
-    siteLogo="https://i2.hdslb.com/bfs/face/240686daf08ec17d3a812f9b9f019c3ddc9c8dc7.jpg"
-    description="动画生物"
-
-[[list.sub]]
-tag = '历政地'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="历史老师定哥"
-    siteLink="https://space.bilibili.com/321084528"
-    siteLogo="https://i0.hdslb.com/bfs/face/dc8394b8030172e391a0e87a85fefe9c308055ae.jpg"
-    description="听课看收藏夹"
-
-    [[list.sub.item]]
-    siteName="段sir是懂王"
-    siteLink="https://space.bilibili.com/402847001"
-    siteLogo="https://i2.hdslb.com/bfs/face/3ed6ae2fb44b45e8e70daacce5f8ed31663a4422.jpg"
-    description="历政地，最懂差生的up，录着最适合差生的课"
-
-    [[list.sub.item]]
-    siteName="Koi大大"
-    siteLink="https://space.bilibili.com/280683362"
-    siteLogo="https://i2.hdslb.com/bfs/face/72b85abc8e3f824685b75992833c87fc9049fd01.jpg"
-    description="高考政治，免费系统课"
-
-    [[list.sub.item]]
-    siteName="高考政治马宇轩"
-    siteLink="https://space.bilibili.com/327222408"
-    siteLogo="https://i0.hdslb.com/bfs/face/15e7f48c94faa0415ff6f8bfde35168c228e54be.jpg"
-    description="按需选择"
-
-    [[list.sub.item]]
-    siteName="易小川老师"
-    siteLink="https://space.bilibili.com/347401435"
-    siteLogo="https://i1.hdslb.com/bfs/face/61802e078ab9d48a0f6b4740f8c292e565f91cd6.jpg"
-    description="高中政治教师，佛系更新，不卖课也不卖课件。"
-
-    [[list.sub.item]]
-    siteName="地理安迎老师"
-    siteLink="https://space.bilibili.com/492547140"
-    siteLogo="https://i0.hdslb.com/bfs/face/c80abb2454158a328ee5c3d0ffbde5705aa4f956.jpg"
-    description="真题、录播课"
-
-    [[list.sub.item]]
-    siteName="李说地理"
-    siteLink="https://space.bilibili.com/443846149"
-    siteLogo="https://i1.hdslb.com/bfs/face/b53f6f654ec5c79b3e53148b95173cb493d9294e.jpg"
-    description="高中地理"
-
-[[list.sub]]
-tag = '志愿'
-css = 'icon-mobile'
-
-    [[list.sub.item]]
-    siteName="取景框看世界"
-    siteLink="https://space.bilibili.com/40427625"
-    siteLogo="https://i0.hdslb.com/bfs/face/0d671560a6dd7f28247b3b7501d404a5b01280ea.jpg"
-    description="你的B站大学辅导员，志愿填报"
-
-    [[list.sub.item]]
-    siteName="框框大学"
-    siteLink="https://www.kkdaxue.com"
+[[list.item]]
+    siteName="九科视频(高中)"
+    siteLink="/jksp"
     siteLogo=""
-    description="发现各专业前辈们的学习建议"
+    description="都是B站知名UP主"
 
-[[list]]
-tag = '软件'
-css = 'icon-desktop'
-
-[[list.sub]]
-tag = '精品软件'
-css = 'icon-cog'
-
-    [[list.sub.item]]
-    siteName="Downloadly"
-    siteLink="https://downloadlynet.ir/"
-    siteLogo="https://downloadlynet.ir/wp-content/uploads/2021/10/favicon.png"
-    description="Free Software Download"
-
-    [[list.sub.item]]
-    siteName="LREPACKS"
-    siteLink="https://lrepacks.net/"
-    siteLogo="https://lrepacks.net/templates/biz-ideas/images/favicon-32x32.png"
-    description="Авторские репаки от ELCHUPACABRA - REPACK скачать"
-
-    [[list.sub.item]]
-    siteName="REPACK"
-    siteLink="https://repack.me/"
+[[list.item]]
+    siteName="教学相关"
+    siteLink="/teaching"
     siteLogo=""
-    description="Репаки от Кролика - REPACK.ME"
+    description="课标、教材、题库、继教、图书馆等"
 
-    [[list.sub.item]]
-    siteName="CyberMania"
-    siteLink="https://www.cybermania.ws/"
-    siteLogo="https://www.cybermania.ws/wp-content/uploads/CM-150x150.png"
-    description="CyberMania"
-
-    [[list.sub.item]]
-    siteName="RuTracker"
-    siteLink="https://rutracker.org/forum/index.php"
-    siteLogo="res/logos/rutracker.ico"
-    description="Крупнейший русскоязычный битторрент трекер"
-    
-    [[list.sub.item]]
-    siteName="Nsane"
-    siteLink="https://nsaneforums.com/"
-    siteLogo="https://nsaneforums.com/uploads/monthly_2021_08/android-chrome-72x72.png"
-    description="Computer and Technology Community, Software Update, Free Giveaways, Nsane.Down, Technology Consultations and News, and much more."
-
-    [[list.sub.item]]
-    siteName="MDL"
-    siteLink="https://forums.mydigitallife.net/"
-    siteLogo="https://forums.mydigitallife.net/favicon.ico"
-    description="My Digital Life Forums"
-    
-    [[list.sub.item]]
-    siteName="SoftArchive"
-    siteLink="https://sanet.st/full"
-    siteLogo="https://sanet.st/favicon.ico"
-    description="Unlimited Download Source"
-
-    [[list.sub.item]]
-    siteName="Taiwebs"
-    siteLink="https://es.taiwebs.com"
-    siteLogo="https://taiwebs.com/images/favico/faviconT.ico"
-    description="Descargue juegos y comparta software completo Vesion, software, las últimas utilidades informáticas - Descargue sitios web gratuitos."
-
-    [[list.sub.item]]
-    siteName="4PDA"
-    siteLink="https://4pda.to/forum"
-    siteLogo="https://4pda.to/s/rSRyK8jbCg5aAz2gCaXJy2vjWl1P.svg"
-    description="扫描"
-
-    [[list.sub.item]]
-    siteName="VN-Zoom"
-    siteLink="https://vn-z.vn/threads/tong-hop-key-windows-va-office.10945/"
-    siteLogo="https://vn-z.vn/styles/logo/favicon.png"
-    description="Thảo luận - Tổng hợp key Windows và Office"
-
-    [[list.sub.item]]
-    siteName="PHILka.RU"
-    siteLink="https://philka.ru/forum/topic/47480-kliuchi-aktivatcii-microsoft-office-all-version/"
-    siteLogo="https://philka.ru/forum/favicon.ico"
-    description="Ключи активации Microsoft Office (all Version)"
-
-    [[list.sub.item]]
-    siteName="MAS/IAS"
-    siteLink="https://massgrave.dev/"
-    siteLogo="https://massgrave.dev/img/favicon.ico"
-    description="Microsoft Activation Scripts (MAS)"
-
-    [[list.sub.item]]
-    siteName="ohook"
-    siteLink="https://github.com/asdcorp/ohook"
-    siteLogo="https://github.githubassets.com/favicons/favicon.svg"
-    description="An universal Office 'activation' hook"
-
-    [[list.sub.item]]
-    siteName="MSFreeSoft"
-    siteLink="https://msfree.su/index.php?forums/32/"
+[[list.item]]
+    siteName="人工智能"
+    siteLink="/ai"
     siteLogo=""
-    description="MS Windows 和 Office 程序"
-
-    [[list.sub.item]]
-    siteName="数字人民币"
-    siteLink="https://www.itrmb.com/"
-    siteLogo="https://www.itrmb.com/view/img/favicon.ico"
-    description="免费下载绿色软件APP 无会员 不收费"
-
-    [[list.sub.item]]
-    siteName="W 汉化作品"
-    siteLink="http://shui2012.ysepan.com"
-    siteLogo=""
-    description="Office C2R Install"
-
-    [[list.sub.item]]
-    siteName="绿软集合"
-    siteLink="https://www.greensoftwarehub.com"
-    siteLogo=""
-    description="一个绿色、纯净的常用软件工具箱"
-
-    [[list.sub.item]]
-    siteName="Via浏览器收藏合集"
-    siteLink="https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md"
-    siteLogo=""
-    description="@半梦半醒"
-
-    [[list.sub.item]]
-    siteName="QQ"
-    siteLink="https://www.123pan.com/s/b6cA-wUxpA.html"
-    siteLogo=""
-    description="apphot.cc"
-
-    [[list.sub.item]]
-    siteName="常用软件"
-    siteLink="https://share.feijipan.com/s/oLFrvec"
-    siteLogo=""
-    description="林颖韬"
-
-    [[list.sub.item]]
-    siteName="老康软件铺"
-    siteLink="http://netfood.ysepan.com"
-    siteLogo=""
-    description="烈火群国宝2023"
-
-    [[list.sub.item]]
-    siteName="闻雷"
-    siteLink="http://wenlei.ysepan.com"
-    siteLogo=""
-    description="密码 wenlei.ysepan"
-
-[[list.sub]]
-tag = '在线工具'
-css = 'icon-cloud'
-
-    [[list.sub.item]]
-    siteName="dGitHub"
-    siteLink="https://dgithub.xyz"
-    siteLogo=""
-    description="GitHub镜像代理"
-
-    [[list.sub.item]]
-    siteName="默沙东诊疗手册"
-    siteLink="https://www.msdmanuals.cn/"
-    siteLogo=""
-    description="一个涵盖了医学所有领域成千上万主题的广泛医学信息来源"
-
-    [[list.sub.item]]
-    siteName="Markdown"
-    siteLink="https://editor.mdnice.com/"
-    siteLogo="https://editor.mdnice.com/favicon.svg"
-    description="让排版变 Nice"
-
-    [[list.sub.item]]
-    siteName="TinyPNG"
-    siteLink="https://tinify.cn/"
-    siteLogo="https://tinify.cn/images/apple-touch-icon.png"
-    description="压缩PNG图片的同时保留透明度。"
-
-    [[list.sub.item]]
-    siteName="DeepL翻译"
-    siteLink="https://www.deepl.com/translator"
-    siteLogo="res/logos/deepl.png"
-    description="全世界最准确的翻译"
-
-    [[list.sub.item]]
-    siteName="有道翻译"
-    siteLink="https://fanyi.youdao.com"
-    siteLogo="https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png"
-    description="文本、文档、网页、在线即时翻译"
-
-    [[list.sub.item]]
-    siteName="在线屏幕检测"
-    siteLink="https://screen.bmcx.com/#welcome"
-    siteLogo=""
-    description="图吧工具箱/屏幕工具，也可以"
-
-    [[list.sub.item]]
-    siteName="屏幕刷新率检测"
-    siteLink="https://testufo.com"
-    siteLogo=""
-    description="UFO Test"
-
-[[list.sub]]
-tag = '站长工具'
-css = 'icon-star'
-
-    [[list.sub.item]]
-    siteName="GitHub"
-    siteLink="https://github.com/"
-    siteLogo="https://github.githubassets.com/favicons/favicon.svg"
-    description="全球最大的同性交友网站"
-
-    [[list.sub.item]]
-    siteName="GitLab"
-    siteLink="https://about.gitlab.com/"
-    siteLogo="https://about.gitlab.com/nuxt-images/ico/favicon.ico"
-    description="DevSecOps platform"
-
-    [[list.sub.item]]
-    siteName="Cloudflare Pages"
-    siteLink="https://pages.cloudflare.com/"
-    siteLogo="https://pages.cloudflare.com/favicon.ico"
-    description="前端开发协作和部署网站"
-
-    [[list.sub.item]]
-    siteName="Vercel"
-    siteLink="https://vercel.com/"
-    siteLogo="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
-    description="前端云构建和部署平台"
-
-    [[list.sub.item]]
-    siteName="Netlify"
-    siteLink="https://app.netlify.com/"
-    siteLogo="https://www.netlify.com/v3/static/favicon/apple-touch-icon.png"
-    description="Netlify 组合式 web 平台"
-
-    [[list.sub.item]]
-    siteName="NameSilo"
-    siteLink="https://www.namesilo.com/"
-    siteLogo=""
-    description="Cheap Domain Names & Web Hosting Starting"
-
-    [[list.sub.item]]
-    siteName="DNSPod"
-    siteLink="https://www.dnspod.cn/"
-    siteLogo="https://cloudcache.tencent-cloud.cn/open_proj/proj_qcloud_v2/tc-console/dnspod/gateway/css/img/dnspod.ico"
-    description="免费智能DNS解析服务商"
-
-    [[list.sub.item]]
-    siteName="UXWing"
-    siteLink="https://uxwing.com/"
-    siteLogo="https://uxwing.com/wp-content/themes/uxwing/images/apple-touch-icon-114.png"
-    description="Free icons download for commercial use | Free icons SVG, PNG"
-
-    [[list.sub.item]]
-    siteName="Favicon Generator"
-    siteLink="https://realfavicongenerator.net"
-    siteLogo=""
-    description="Favicon Generator for perfect icons on all browsers"
-
-    [[list.sub.item]]
-    siteName="Font Awesome"
-    siteLink="https://fontawesome.com"
-    siteLogo=""
-    description="Font Awesome"
-
-[[list]]
-tag = 'MSDN'
-css = 'icon-cd'
-
-    [[list.item]]
-    siteName="山己几子木"
-    siteLink="https://msdn.sjjzm.com"
-    siteLogo="res/logos/sjjzm.ico"
-    description="MSDN - 山己几子木"
-    [[list.item]]
-    siteName="HelloWindows"
-    siteLink="https://hellowindows.cn"
-    siteLogo="https://hellowindows.cn/logo-s.png"
-    description="Windows系统下载仓储站"
-
-    [[list.item]]
-    siteName="OS.click"
-    siteLink="https://os.click/en"
-    siteLogo=""
-    description="Download Windows and Linux ISO lightning fast"
-
-    [[list.item]]
-    siteName="UUP dump"
-    siteLink="https://uupdump.net"
-    siteLogo="https://uupdump.net/static/images/logo.svg"
-    description="直接从 Windows 更新下载统一更新平台的文件"
-
-    [[list.item]]
-    siteName="TechBench"
-    siteLink="https://tb.rg-adguard.net"
-    siteLogo="https://tb.rg-adguard.net/favicon.ico"
-    description="TechBench by WZT"
-
-    [[list.item]]
-    siteName="KMS"
-    siteLink="https://blog.03k.org/post/kms.html"
-    siteLogo=""
-    description="KMS激活Windows/Office口袋指南"
-
-[[list]]
-tag = '人工智能'
-css = 'icon-heart'
-
-    [[list.item]]
-    siteName="Gemini"
-    siteLink="https://ai.google.dev/"
-    siteLogo="res/logos/google.png"
-    description="Google AI"
-
-    [[list.item]]
-    siteName="Copilot"
-    siteLink="https://copilot.microsoft.com/"
-    siteLogo=""
-    description="Microsoft Copilot"
-
-    [[list.item]]
-    siteName="ChatGPT"
-    siteLink="https://chat.openai.com/"
-    siteLogo="res/logos/chatgpt.png"
-    description="How can I help you today?"
-
-    [[list.item]]
-    siteName="character.ai"
-    siteLink="https://character.ai/"
-    siteLogo="res/logos/character.ai.svg"
-    description="适合你一天中每时每刻的个性化 AI"
-
-    [[list.item]]
-    siteName="豆包"
-    siteLink="https://www.doubao.com/"
-    siteLogo="https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png"
-    description="字节跳动推出的免费AI对话助手，无需登录即可在输入框提问开始聊天"
-
-    [[list.item]]
-    siteName="Coze"
-    siteLink="https://www.coze.com/"
-    siteLogo="https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png"
-    description="字节跳动推出的AI机器人和智能体创建平台"
-    [[list.item]]
-    siteName="聊天机器人竞技场"
-    siteLink="https://chat.lmsys.org/"
-    siteLogo=""
-    description="集成全球顶级34款主流模型"
-
-    [[list.item]]
-    siteName="QuillBot"
-    siteLink="https://quillbot.com/"
-    siteLogo="res/logos/quillbot.png"
-    description="值得拥有的论文润色工具"
-
-    [[list.item]]
-    siteName="Suno"
-    siteLink="https://suno.com"
-    siteLogo=""
-    description="音乐"
-
-    [[list.item]]
-    siteName="ChatTTS-Forge"
-    siteLink="https://huggingface.co/spaces/lenML/ChatTTS-Forge"
-    siteLogo=""
-    description="文本转语音，需要梯子"
-
-    [[list.item]]
-    siteName="GPT-SoVITS"
-    siteLink="https://github.com/RVC-Boss/GPT-SoVITS"
-    siteLogo="https://github.githubassets.com/favicons/favicon.svg"
-    description="1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
-
-    [[list.item]]
-    siteName="CapsWriter-Offline"
-    siteLink="https://github.com/HaujetZhao/CapsWriter-Offline"
-    siteLogo="https://github.githubassets.com/favicons/favicon.svg"
-    description="一个 PC 端的语音输入、字幕转录工具"
-
-    [[list.item]]
-    siteName="秘塔AI搜索"
-    siteLink="https://metaso.cn/"
-    siteLogo="https://metaso.cn/apple-touch-icon.png"
-    description="没有广告，直达结果"
-
-[[list]]
-tag = "更多导航"
-css = 'icon-database'
+    description="要和谐上网"
 
     [[list.item]]
     siteName="天冬Asp"
     siteLink="https://space.bilibili.com/338235854"
     siteLogo="https://i2.hdslb.com/bfs/face/36d5c5227f1c9618ed4fef80ce175cb3f2ab4d56.jpg"
     description="植物&自然科普欢迎您。阿斯扒拉菇丝"
-    
+
     [[list.item]]
     siteName="程序员鱼皮"
     siteLink="https://space.bilibili.com/12890453"
@@ -1016,3 +109,85 @@ css = 'icon-database'
     siteLink="https://space.bilibili.com/15929124"
     siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
     description="EduEditer，教学文档和课件编排软件"
+
+[[list]]
+tag = '折腾'
+css = 'icon-cog'
+
+    [[list.item]]
+    siteName="Windows下载和激活"
+    siteLink="/windows"
+    siteLogo=""
+    description="一条龙"
+
+    [[list.item]]
+    siteName="破姐软件"
+    siteLink="/apps"
+    siteLogo=""
+    description="只有想不到，没有找不到"
+
+    [[list.item]]
+    siteName="QQ"
+    siteLink="/qq"
+    siteLogo=""
+    description="LiteLoaderQQNT 和 QAuxiliary"
+
+    [[list.item]]
+    siteName="TVBox"
+    siteLink="/tvbox"
+    siteLogo=""
+    description="电视直播和影视点播"
+
+    [[list.item]]
+    siteName="站长工具"
+    siteLink="/webmaster-tools"
+    siteLogo=""
+    description="免费搭建博客"
+
+[[list]]
+tag = "更多导航"
+css = 'icon-database'
+
+    [[list.item]]
+    siteName="dGitHub"
+    siteLink="https://dgithub.xyz"
+    siteLogo=""
+    description="GitHub镜像代理"
+
+    [[list.item]]
+    siteName="Markdown"
+    siteLink="https://editor.mdnice.com/"
+    siteLogo="https://editor.mdnice.com/favicon.svg"
+    description="让排版变 Nice"
+
+    [[list.item]]
+    siteName="TinyPNG"
+    siteLink="https://tinify.cn/"
+    siteLogo="https://tinify.cn/images/apple-touch-icon.png"
+    description="压缩PNG图片的同时保留透明度。"
+
+    [[list.sitem]]
+    siteName="DeepL翻译"
+    siteLink="https://www.deepl.com/translator"
+    siteLogo="res/logos/deepl.png"
+    description="全世界最准确的翻译"
+
+    [[list.item]]
+    siteName="有道翻译"
+    siteLink="https://fanyi.youdao.com/#/TextTranslate"
+    siteLogo="https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png"
+    description="文本、文档、网页、在线即时翻译"
+
+    [[list.item]]
+    siteName="在线屏幕检测"
+    siteLink="https://screen.bmcx.com/#welcome"
+    siteLogo=""
+    description="图吧工具箱/屏幕工具，也可以"
+
+    [[list.item]]
+    siteName="屏幕刷新率检测"
+    siteLink="https://testufo.com"
+    siteLogo=""
+    description="UFO Test"
+
+

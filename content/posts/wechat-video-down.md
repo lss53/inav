@@ -4,7 +4,7 @@ date: 2024-11-13T08:08:18+0800
 comment: false
 ---
 
-## WechatVideoSniffer
+### WechatVideoSniffer
 
 [WechatVideoSniffer](https://github.com/kanadeblisst00/WechatVideoSniffer)是一款微信视频号PC版视频地址嗅探器。
 
@@ -18,7 +18,7 @@ windows7和一直没更新的比较老的windows10用户会提示你是否安装
 
 先不要打开微信，先打开软件，点 菜单 - > 删除缓存(会有一个弹窗显示删除成功)，然后点 菜单 -> 启动监听，接着启动微信打开某个视频播放页面就能看到界面上有拦截到的视频
 
-## 小白点视频号工具
+### 小白点视频号工具
 
 小白点视频号工具(搜索B站`小白老师s`或微信公众号`小白的云`)是一款直接从视频号页面抓取数据的PC版嗅探器。
 
@@ -32,7 +32,7 @@ https://pan.baidu.com/s/1IiQND3KkH9sB1eWy88pRrw?pwd=3wqj 
  
 打开PC微信的视频号，把要下载的视频转发到文件传输助手，点开刚刚转发的那个视频，小白点就会监测到它，点下载列表中的`下载选中`即可。
 
-## res-downloader
+### res-downloader
 
 [res-downloader](https://github.com/putyy/res-downloader) 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 

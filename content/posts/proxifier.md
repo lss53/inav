@@ -9,13 +9,13 @@ comment: false
 提示：在 Windows 系统中有 `Proxifier Standard Edition` (标准版即安装版)和 `Proxifier Portable Editio` (便携版即免安装版)，因此不要混淆`标准版注册码`和`便携版注册码`。
 
 
-## 安装
+### 安装
 
 安装时，按需勾选`Start Proxifier automatically on Windows startup`(开机启动)、`Check for product updates on Proxifier startup
 `(自动检查更新)和`Create a desktop shortcut
 `(创建快捷方式)。最后点`Finish`启动Proxifier。
 
-## 注册
+### 注册
 
 点`Enter Registration Key...`进入注册界面，`Your name or company name`(用户名)下面输入任意字符，`Your registration key`(注册码)下面输入`standard`(标准版)注册码，`Current user only`(当前用户)和`All users on this computer(require administrator)`(所有用户)按需选择，之后点击OK，出现：
 
@@ -24,7 +24,7 @@ comment: false
 
 表示注册成功，点`确定`。
 
-## 配置代理服务器
+### 配置代理服务器
 
 目的是配置 Proxifier 连上代理服务器。
 
@@ -52,13 +52,13 @@ comment: false
 选择`否`。
 
 
-## 配置代理规则
+### 配置代理规则
 
 目的是让指定程序强制走代理服务器。
 
 菜单栏`Profile`(配置文件)中的`Proxification Rules`(代理规则)，在弹出的 Proxification Rules 窗口中点`Add`(添加)，在弹出的`Proxification Rule`窗口中`Name`(名称)后面输入`Mangayomi`、`Applications`(应用程序)处点`Browse`(浏览)，选择应用程序`Mangayomi`的路径，`Action`(动作)处，选择`Proxy SOCKS5 127.0.0.1`，点OK。关闭窗口`Proxification Rules`。
 
-Profile汉化包等网盘下载:
+### Profile 汉化包等下载
 
 https://wwqm.lanzouj.com/b00g2rh76h 密码:424v  
 https://www.alipan.com/s/HgG5zdg1hyk

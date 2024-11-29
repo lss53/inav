@@ -78,11 +78,11 @@ https://annas-archive.org
 
 ### Z-Library
 
-Z-Library（简称 Z-Lib，前身为 BookFinder）是全球最大的电子图书馆之一，拥有 1046 万本书和 8484 万篇文章。自 2009 年起提供免费电子书服务，但遭遇多次封锁，2024 年 5 月起停止国内宣传渠道，致使众多虚假域名（钓鱼网站）出现  
-最新入口在维基百科：https://zh.wikipedia.org/wiki/Z-Library
+Z-Library（简称 Z-Lib，前身为 BookFinder）是全球最大的电子图书馆之一，拥有 1046 万本书和 8484 万篇文章。自 2009 年起提供免费电子书服务，但遭遇多次封锁，2024 年 5 月起停止国内宣传渠道，致使众多虚假域名（钓鱼网站）出现，最新入口在维基百科：
+https://zh.wikipedia.org/wiki/Z-Library  
 
 ### 电脑书籍
 
 烈火群@国宝2023  
-https://www.aliyundrive.com/s/UAhNX5frTEL#r48g
+https://www.aliyundrive.com/s/UAhNX5frTEL 密码:r48g
 

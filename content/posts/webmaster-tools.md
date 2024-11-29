@@ -37,22 +37,22 @@ https://www.namesilo.com
 
 ### DNSPod
 
-免费智能DNS解析服务商  
+免费智能 DNS 解析服务商  
 https://www.dnspod.cn  
 
 ### UXWing
 
-免费图标SVG、PNG  
+免费图标 SVG、PNG  
 https://uxwing.com  
 
 ### Favicon Generator
 
-Favicon生成器，兼容所有浏览器  
+Favicon 生成器，兼容所有浏览器  
 https://realfavicongenerator.net  
 
 ### Font Awesome
 
- Internet 的图标库和工具包  
+Internet 的图标库和工具包  
 https://fontawesome.com  
 
 

@@ -13,8 +13,10 @@ https://downloadlynet.ir
 
 ### LRepacks
 
-毛子重新打包的电脑软件，repack.me 已经停止注册  
+毛子重新打包的电脑软件  
 https://lrepacks.net  
+
+PS: repack.me 已经停止注册且捐赠才能下载  
 
 ### m0nkrus
 
@@ -38,7 +40,7 @@ https://nsaneforums.com
 
 ### SoftArchive
 
-软件档案  
+软件、图书、图形、课程、游戏、影音、社区（也有资源）等，建议注册账号  
 https://sanet.st/full  
 
 ### Taiwebs
@@ -51,7 +53,7 @@ https://en.taiwebs.com
 毛子论坛，如 CamScanner  
 https://4pda.to/forum  
 
-注册和登录需要输入，俄文数字验证码  
+注册和登录需要输入，认俄文数字验证码的教程  
 https://github.com/zhongfly/blog/issues/11  
 
 ### CRACKSurl

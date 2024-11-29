@@ -21,10 +21,8 @@ https://chat.openai.com
 
 ### character.ai
 
-支持自定义对话角色形象的AI聊天机器人智能体平台  
+支持自定义对话角色形象的AI聊天机器人智能体平台，适合你一天中每时每刻的个性化 AI  
 https://character.ai
-
-适合你一天中每时每刻的个性化 AI"
 
 ### 豆包
 

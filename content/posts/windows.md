@@ -35,12 +35,12 @@ https://tb.rg-adguard.net
 
 ### KMS
 
-KMS激活Windows/Office口袋指南  
+KMS 激活 Windows/Office 口袋指南  
 https://blog.03k.org/post/kms.html  
 
 ### My Digital Life
 
-如 kms vl all、KMSpico、Microsoft Toolkit、vlmcsd和py-kms、Windows Loader等  
+如 kms vl all、KMSpico、Microsoft Toolkit、vlmcsd 和 py-kms、Windows Loader 等  
 https://forums.mydigitallife.net  
 
 
@@ -66,7 +66,7 @@ https://github.com/asdcorp/ohook
 
 ### MSFreeSoft
 
-PIDKey Lite 和 Office C2R Install 等 @ Ratiborus  
+PIDKey Lite 和 Office C2R Install 等@Ratiborus  
 https://msfree.su/index.php
 
 ### W 汉化作品

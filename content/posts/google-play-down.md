@@ -16,7 +16,6 @@ comment: false
 
 [F-Droid](https://f-droid.org/zh_Hans) 是一个 Android 平台上 FOSS（Free and Open Source Software，自由开源软件）的目录，并提供下载安装支持。使用客户端可以更轻松地浏览、安装及跟进设备上的应用更新。
 
-网盘下载（APKPure + Aptoide // 去广告修改版）
-
-https://lanzoui.com/b04akc9ri#1ve0  
+网盘下载（APKPure + Aptoide // 去广告修改版）  
+https://lanzoui.com/b04akc9ri 密码:1ve0  
 https://pan.baidu.com/s/1X01EHZY_lqs0LKB0-K1x3Q?pwd=hhhh

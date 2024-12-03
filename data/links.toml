@@ -74,120 +74,80 @@ css = 'icon-shop'
 tag = '学习'
 css = 'icon-graduation-cap'
 
-[[list.item]]
-    siteName="九科视频(高中)"
-    siteLink="/jksp"
+    [[list.item]]
+    siteName="中小学"
+    siteLink="/zxx"
     siteLogo=""
-    description="都是B站知名UP主"
-
-[[list.item]]
-    siteName="教学相关"
-    siteLink="/teaching"
-    siteLogo=""
-    description="课标、教材、题库、继教、图书馆等"
-
-[[list.item]]
-    siteName="人工智能"
-    siteLink="/ai"
-    siteLogo=""
-    description="要和谐上网"
+    description="课标、教材、题库、UP主、志愿"
 
     [[list.item]]
-    siteName="天冬Asp"
-    siteLink="https://space.bilibili.com/338235854"
-    siteLogo="https://i2.hdslb.com/bfs/face/36d5c5227f1c9618ed4fef80ce175cb3f2ab4d56.jpg"
-    description="植物&自然科普欢迎您。阿斯扒拉菇丝"
+    siteName="综合学习"
+    siteLink="zhxx/"
+    siteLogo=""
+    description="慕课平台、人工智能、编程和科普等"
 
     [[list.item]]
-    siteName="程序员鱼皮"
-    siteLink="https://space.bilibili.com/12890453"
-    siteLogo="https://i2.hdslb.com/bfs/face/2839f985db44bc2e756e6df2d26f1849904d552c.jpg"
-    description="全栈开发小哥，用编程做点有趣的事"
-
-    [[list.item]]
-    siteName="菜鸟主老王"
-    siteLink="https://space.bilibili.com/15929124"
-    siteLogo="https://i0.hdslb.com/bfs/face/64038d9eb80cabfc1448c693403252500bc3437e.jpg"
-    description="EduEditer，教学文档和课件编排软件"
+    siteName="翻译"
+    siteLink="/fanyi/"
+    siteLogo=""
+    description="DeepL和有道"
 
 [[list]]
-tag = '折腾'
+tag = '软件'
 css = 'icon-cog'
 
     [[list.item]]
-    siteName="Windows下载和激活"
-    siteLink="/windows"
+    siteName="Windows"
+    siteLink="win"
     siteLogo=""
-    description="一条龙"
+    description="下载和激活一条龙"
 
     [[list.item]]
     siteName="破姐软件"
-    siteLink="/apps"
+    siteLink="apps/"
     siteLogo=""
     description="只有想不到，没有找不到"
 
     [[list.item]]
-    siteName="QQ"
-    siteLink="/qq"
+    siteName="下载工具"
+    siteLink="download/"
     siteLogo=""
-    description="LiteLoaderQQNT 和 QAuxiliary"
+    description="度娘网盘、微信视频号、IDM等"
 
     [[list.item]]
-    siteName="TVBox"
-    siteLink="/tvbox"
+    siteName="在线工具"
+    siteLink="onlinetool/"
     siteLogo=""
-    description="电视直播和影视点播"
+    description="GitHub代理、公众号排版、图片压缩、屏幕检测等"
 
     [[list.item]]
     siteName="站长工具"
-    siteLink="/webmaster-tools"
+    siteLink="webmaster/"
     siteLogo=""
-    description="免费搭建博客"
+    description="免费搭建静态网站"
+[[list]]
+tag = '影音阅读'
+css = 'icon-cd'
 
+    [[list.item]]
+    siteName="影视"
+    siteLink="video/"
+    siteLogo=""
+    description="TVBox"
+
+    [[list.item]]
+    siteName="音乐"
+    siteLink="music/"
+    siteLogo=""
+    description="洛雪"
+
+    [[list.item]]
+    siteName="阅读"
+    siteLink="ebook/"
+    siteLogo=""
+    description="影子图书馆"
+    
 [[list]]
 tag = "更多导航"
 css = 'icon-database'
-
-    [[list.item]]
-    siteName="dGitHub"
-    siteLink="https://dgithub.xyz"
-    siteLogo=""
-    description="GitHub镜像代理"
-
-    [[list.item]]
-    siteName="Markdown"
-    siteLink="https://editor.mdnice.com/"
-    siteLogo="https://editor.mdnice.com/favicon.svg"
-    description="让排版变 Nice"
-
-    [[list.item]]
-    siteName="TinyPNG"
-    siteLink="https://tinify.cn/"
-    siteLogo="https://tinify.cn/images/apple-touch-icon.png"
-    description="压缩PNG图片的同时保留透明度。"
-
-    [[list.sitem]]
-    siteName="DeepL翻译"
-    siteLink="https://www.deepl.com/translator"
-    siteLogo="res/logos/deepl.png"
-    description="全世界最准确的翻译"
-
-    [[list.item]]
-    siteName="有道翻译"
-    siteLink="https://fanyi.youdao.com/#/TextTranslate"
-    siteLogo="https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png"
-    description="文本、文档、网页、在线即时翻译"
-
-    [[list.item]]
-    siteName="在线屏幕检测"
-    siteLink="https://screen.bmcx.com/#welcome"
-    siteLogo=""
-    description="图吧工具箱/屏幕工具，也可以"
-
-    [[list.item]]
-    siteName="屏幕刷新率检测"
-    siteLink="https://testufo.com"
-    siteLogo=""
-    description="UFO Test"
-
 

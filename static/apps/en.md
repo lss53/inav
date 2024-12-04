@@ -12,7 +12,11 @@ PS: repack.me 已经停止注册且捐赠才能下载
 
 ### m0nkrus<!-- {docsify-ignore} -->
 
-毛子 m0nkrus 只发布 adobe 破姐资源，https://w14.monkrus.ws
+毛子 m0nkrus 只发布 adobe 破姐资源
+
+个人博客：https://w14.monkrus.ws
+
+论坛：https://uniondht.org/tracker.php?nm=Acrobat
 
 ### CyberMania<!-- {docsify-ignore} -->
 

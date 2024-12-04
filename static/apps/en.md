@@ -46,4 +46,6 @@ PS: repack.me 已经停止注册且捐赠才能下载
 
 ### Sordum<!-- {docsify-ignore} -->
 
-近百个 Windows 系统优化小工具，如Windows Update Blocker、Defender Control 等，https://www.sordum.org
+近百个 Windows 系统优化小工具，如Windows Update Blocker、Defender Control 等
+
+https://www.sordum.org

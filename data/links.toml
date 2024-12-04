@@ -151,3 +151,9 @@ css = 'icon-cd'
 tag = "更多导航"
 css = 'icon-database'
 
+    [[list.item]]
+    siteName="生物 query 生产"
+    siteLink="https://merchant.tuxiaodui.com/supplier-account-manage"
+    siteLogo=""
+    description="RMB"
+
